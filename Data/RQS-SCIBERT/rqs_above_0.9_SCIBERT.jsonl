@@ -1,0 +1,391 @@
+{"paper_id": "2024.emnlp-main.9", "question": "Considering this, we propose a question from a different angle: can we improve the training and inference speeds of DDPMs and significantly alleviate GPU memory pressure by operating directly on the speech signal itself?", "predicted_score": 0.9761}
+{"paper_id": "2024.emnlp-main.11", "question": "Our analyses and experiments center around the following research questions: RQ1 Do gaze features provide robust predictors for subjective hate speech annotations?", "predicted_score": 0.9949}
+{"paper_id": "2024.emnlp-main.11", "question": "RQ 1: Do gaze features provide robust predictors for subjective hate speech annotations?", "predicted_score": 0.9946}
+{"paper_id": "2024.emnlp-main.11", "question": "RQ 2: How do gaze features correlate with human and model rationales?", "predicted_score": 0.9946}
+{"paper_id": "2024.emnlp-main.11", "question": "RQ 3: Are gaze features useful for enriching LMs for HSD?", "predicted_score": 0.9943}
+{"paper_id": "2024.emnlp-main.11", "question": "A further question arises from this conclusion: Do features that correlate badly with model rationales (i.e. carrying complementary information) improve the performance of a model enriched with these features?", "predicted_score": 0.9816}
+{"paper_id": "2024.emnlp-main.24", "question": "Can we effectively make Llama-2 translate both from and to unseen languages by fine-tuning it with a small amount of data?", "predicted_score": 0.995}
+{"paper_id": "2024.emnlp-main.25", "question": "RQ2: What is the tradeoff between ranking and relevance prediction performance for different methods?", "predicted_score": 0.9948}
+{"paper_id": "2024.emnlp-main.27", "question": "In this paper, we explore the second option and ask the following question: How can instructors modify assignment prompts to make them less amenable to LLM-based solutions without impacting their understandability to students?", "predicted_score": 0.9939}
+{"paper_id": "2024.emnlp-main.27", "question": "The goal of this evaluation is to answer the following question: How do LLMs perform on our corpus of programming assignment problems?", "predicted_score": 0.9939}
+{"paper_id": "2024.emnlp-main.27", "question": "In this section, we explore the following research question: How can we leverage black-box adversarial perturbation techniques to impede LLMassisted solution generation?", "predicted_score": 0.993}
+{"paper_id": "2024.emnlp-main.27", "question": "In this section, we present the results of our field experiment to answer the following three questions: Q1: How effective are the perturbations, in general, in impeding LLM-assisted solution generation?", "predicted_score": 0.9919}
+{"paper_id": "2024.emnlp-main.27", "question": "Q2: How does the detectability affect efficacy?", "predicted_score": 0.9925}
+{"paper_id": "2024.emnlp-main.27", "question": "Q3: What techniques do students adopt to avoid perturbations, and how do they validate their generated solutions?", "predicted_score": 0.9929}
+{"paper_id": "2024.emnlp-main.32", "question": "In this section, our goal is to answer the following research question: RQ1: How do the interactions between randomness factors affect their individual importance?", "predicted_score": 0.9921}
+{"paper_id": "2024.emnlp-main.32", "question": "In this section, we want to answer the following research question: RQ2: What randomness factors are important for different approaches for learning with limited labelled data?", "predicted_score": 0.9939}
+{"paper_id": "2024.emnlp-main.32", "question": "In this section, our focus is on answering the following research question: RQ3: How does the importance of data-specific randomness factors change based on the number of classes and in-context samples?", "predicted_score": 0.9932}
+{"paper_id": "2024.emnlp-main.32", "question": "In this section, we aim to answer the following research question: RQ4: How does the prompt format affect the importance of randomness factors?", "predicted_score": 0.9929}
+{"paper_id": "2024.emnlp-main.36", "question": "How can we discern the effectiveness among possible measures available for evaluating conceptbased explanations?", "predicted_score": 0.995}
+{"paper_id": "2024.emnlp-main.38", "question": "Our experiments are designed to address the following research questions (RQs): RQ1: Does MSI outperform other insights methods?", "predicted_score": 0.994}
+{"paper_id": "2024.emnlp-main.38", "question": "RQ4: How does the robustness of the MSI system evolve with the domain shifts?", "predicted_score": 0.9945}
+{"paper_id": "2024.emnlp-main.41", "question": "In addition to the main experiments, we perform ablation studies to address the following questions: Q1: Would the results hold if we use a different language model as the red LM?", "predicted_score": 0.9865}
+{"paper_id": "2024.emnlp-main.42", "question": "The questions that we aim to answer are: (Q1) Can HEAR reliably detect hallucinations and provide reasonable suggestions?", "predicted_score": 0.9935}
+{"paper_id": "2024.emnlp-main.42", "question": "Q2) Does providing hallucination highlights and suggesting corrections improve human navigation performance?", "predicted_score": 0.9942}
+{"paper_id": "2024.emnlp-main.45", "question": "RQ2: Can LSR be more effective with retrieval-oriented entity candidates?", "predicted_score": 0.9943}
+{"paper_id": "2024.emnlp-main.45", "question": "RQ3: How does changing entity embeddings affect the model's ranking performance?", "predicted_score": 0.9948}
+{"paper_id": "2024.emnlp-main.57", "question": "This motivates a natural question: Is there a PEFT method that can be effectively employed for tasks that require editing the internal knowledge of language models?", "predicted_score": 0.9908}
+{"paper_id": "2024.emnlp-main.57", "question": "In the experiments, we evaluate the proposed RoseLoRA and answer the following questions: RQ1) How does the proposed RoseLoRA benefit knowledge editing tasks?", "predicted_score": 0.9923}
+{"paper_id": "2024.emnlp-main.58", "question": "In this section, we evaluate the proposed BlendFilter and answer the following research questions: RQ1) How does BlendFilter perform compared to state-of-the-art retrieval-augmented baselines?", "predicted_score": 0.9923}
+{"paper_id": "2024.emnlp-main.61", "question": "We briefly summarize three main challenges in the cross-cultural recipe retrieval task: C1: Is Recipe Title the Best Retrieval Query?", "predicted_score": 0.956}
+{"paper_id": "2024.emnlp-main.74", "question": "Does annotation benefit from gold labels?", "predicted_score": 0.993}
+{"paper_id": "2024.emnlp-main.80", "question": "In this study, we focus on the following two research questions: 1) For different retrieval tasks, what specific benefits can LLMs offer compared to non-LLMs as the backbone encoders?", "predicted_score": 0.9943}
+{"paper_id": "2024.emnlp-main.80", "question": "In this section, we aim to address two key research questions: 1) For different retrieval tasks, what specific benefits can LLMs offer compared to non-LLMs as the backbone encoders?", "predicted_score": 0.9943}
+{"paper_id": "2024.emnlp-main.86", "question": "To fully evaluate the proposed HiCore, we conduct experiments to answer the following questions: \u2022 RQ1: How does HiCore perform compared with all baselines in the recommendation task?", "predicted_score": 0.9934}
+{"paper_id": "2024.emnlp-main.86", "question": "RQ2: How does HiCore perform compared with all baselines in the conversation task?", "predicted_score": 0.9948}
+{"paper_id": "2024.emnlp-main.87", "question": "In this section, we empirically investigate the effectiveness of SemDI, aiming to answer the following questions: (1) Can SemDI consistently perform well across various ECI benchmarks?", "predicted_score": 0.9933}
+{"paper_id": "2024.emnlp-main.94", "question": "Towards this end, we tackle the main research question: How can we align large language models for content generation tasks using expertdefined standards?", "predicted_score": 0.9941}
+{"paper_id": "2024.emnlp-main.4", "question": "In this paper, we examine the question: Do language model prompts have to be understandable by humans in order to elicit desired behavior?", "predicted_score": 0.9923}
+{"paper_id": "2024.emnlp-main.95", "question": "How does UID explain the reason that our TOPT outperforms all baselines?", "predicted_score": 0.985}
+{"paper_id": "2024.emnlp-main.101", "question": "The above observations spur our exploration into the following question: How does an LLM-based agent solve KBQA tasks by serving as multiple roles, and its performance is comparable to systems trained specifically?", "predicted_score": 0.9947}
+{"paper_id": "2024.emnlp-main.108", "question": "Naturally, the question emerges: Is it possible to assess the psychological safety of LLMs by utilizing quantitative human psychological assessments?", "predicted_score": 0.9498}
+{"paper_id": "2024.emnlp-main.113", "question": "In this paper, we raise the question: Should we develop language-specific fact-checking models, or can we effectively utilize existing English models by translating claims and evidence into English?", "predicted_score": 0.9809}
+{"paper_id": "2024.emnlp-main.139", "question": "RQ2: What is the effect of the preference optimization algorithm on the alignment between teacher and student models?\n\nRQ3: How much does the ability to solve tasks in a multi-step manner improve across different scenarios?", "predicted_score": 0.9947}
+{"paper_id": "2024.emnlp-main.143", "question": "Can the varying saliency requirements across different tasks be analyzed?", "predicted_score": 0.9788}
+{"paper_id": "2024.emnlp-main.147", "question": "Do LLMs suffer from the same flaws as finetuned models?", "predicted_score": 0.9919}
+{"paper_id": "2024.emnlp-main.147", "question": "Do LLMs get distracted by seemingly plausible alternate reasoning paths?", "predicted_score": 0.9926}
+{"paper_id": "2024.emnlp-main.147", "question": "Do LLMs suffer from the same flaws as fine-tuned models?", "predicted_score": 0.9939}
+{"paper_id": "2024.emnlp-main.153", "question": "As QUITE comprises two versions of the background premises, we can investigate the following research questions: (1) Given numeric premises, evidences, and a question, can the model(s) correctly calculate the likelihood of events/states?", "predicted_score": 0.9672}
+{"paper_id": "2024.emnlp-main.160", "question": "In this section, we aim to shed light on the working mechanisms of in-context learning by investigating the following question: What is the impact of demonstration on token representation in incontext alignment?", "predicted_score": 0.9942}
+{"paper_id": "2024.emnlp-main.168", "question": "Without annotated data from the low-resource KBs, how can the PI plugin learn to extract and utilize questionrelevant schema information from their schema plugins to induce programs over these KBs?", "predicted_score": 0.9941}
+{"paper_id": "2024.emnlp-main.168", "question": "There are two primary challenges for learning schema plugins and the PI plugin: (1) How to encode sufficient information about each schema item of a KB into a schema plugin?", "predicted_score": 0.9375}
+{"paper_id": "2024.emnlp-main.168", "question": "How to ensure that the PI plugin can extract and utilize useful schema information for program induction from schema plugins of different KBs, instead of ignoring the schema plugin entirely, directly learning to induce program over source KB during training, and consequently losing transferability?", "predicted_score": 0.987}
+{"paper_id": "2024.emnlp-main.177", "question": "Do LLMs understand the difference between semantic and orthographic similarity?", "predicted_score": 0.9949}
+{"paper_id": "2024.emnlp-main.178", "question": "Research Questions (RQs): RQ1: How does our model contribute to QA accuracy compared with other state-of-the-art methods?", "predicted_score": 0.9946}
+{"paper_id": "2024.emnlp-main.178", "question": "RQ2: Can LPO facilitate the generation of more faithful, helpful, and concise evidence?", "predicted_score": 0.9939}
+{"paper_id": "2024.emnlp-main.178", "question": "Can our model perform robustly to noise from irrelevant passages?", "predicted_score": 0.9925}
+{"paper_id": "2024.emnlp-main.178", "question": "RQ4: How effective are the key settings in our model, such as smoothing CoV-weighting?", "predicted_score": 0.9937}
+{"paper_id": "2024.emnlp-main.178", "question": "Research Questions (RQs): RQ1: How does our model contribute to QA accuracy compared with other state-of-the-art methods?", "predicted_score": 0.9946}
+{"paper_id": "2024.emnlp-main.178", "question": "RQ2: Can LPO facilitate the generation of more faithful, helpful, and concise evidence?", "predicted_score": 0.9939}
+{"paper_id": "2024.emnlp-main.178", "question": "Can our model perform robustly to noise from irrelevant passages?", "predicted_score": 0.9925}
+{"paper_id": "2024.emnlp-main.178", "question": "RQ4: How effective are the key settings in our model, such as smoothing CoV-weighting?", "predicted_score": 0.9937}
+{"paper_id": "2024.emnlp-main.178", "question": "Research Questions (RQs): RQ1: How does our model contribute to QA accuracy compared with other state-of-the-art methods?", "predicted_score": 0.9946}
+{"paper_id": "2024.emnlp-main.178", "question": "RQ2: Can LPO facilitate the generation of more faithful, helpful, and concise evidence?", "predicted_score": 0.9939}
+{"paper_id": "2024.emnlp-main.178", "question": "Can our model perform robustly to noise from irrelevant passages?", "predicted_score": 0.9925}
+{"paper_id": "2024.emnlp-main.178", "question": "RQ4: How effective are the key settings in our model, such as smoothing CoV-weighting?", "predicted_score": 0.9937}
+{"paper_id": "2024.emnlp-main.178", "question": "Research Questions (RQs): RQ1: How does our model contribute to QA accuracy compared with other state-of-the-art methods?", "predicted_score": 0.9946}
+{"paper_id": "2024.emnlp-main.178", "question": "RQ2: Can LPO facilitate the generation of more faithful, helpful, and concise evidence?", "predicted_score": 0.9939}
+{"paper_id": "2024.emnlp-main.178", "question": "Can our model perform robustly to noise from irrelevant passages?", "predicted_score": 0.9925}
+{"paper_id": "2024.emnlp-main.178", "question": "RQ4: How effective are the key settings in our model, such as smoothing CoV-weighting?", "predicted_score": 0.9937}
+{"paper_id": "2024.emnlp-main.178", "question": "Research Questions (RQs): RQ1: How does our model contribute to QA accuracy compared with other state-of-the-art methods?", "predicted_score": 0.9946}
+{"paper_id": "2024.emnlp-main.178", "question": "RQ2: Can LPO facilitate the generation of more faithful, helpful, and concise evidence?", "predicted_score": 0.9939}
+{"paper_id": "2024.emnlp-main.178", "question": "Can our model perform robustly to noise from irrelevant passages?", "predicted_score": 0.9925}
+{"paper_id": "2024.emnlp-main.178", "question": "RQ4: How effective are the key settings in our model, such as smoothing CoV-weighting?", "predicted_score": 0.9937}
+{"paper_id": "2024.emnlp-main.178", "question": "RQ1: How does our model contribute to QA accuracy compared with other state-of-the-art methods?", "predicted_score": 0.9948}
+{"paper_id": "2024.emnlp-main.178", "question": "RQ2: Can LPO facilitate the generation of more faithful, helpful, and concise evidence?", "predicted_score": 0.9939}
+{"paper_id": "2024.emnlp-main.178", "question": "Can our model perform robustly to noise from irrelevant passages?", "predicted_score": 0.9925}
+{"paper_id": "2024.emnlp-main.178", "question": "RQ4: How effective are the key settings in our model, such as smoothing CoV-weighting?", "predicted_score": 0.9937}
+{"paper_id": "2024.emnlp-main.178", "question": "Research Questions (RQs): RQ1: How does our model contribute to QA accuracy compared with other state-of-the-art methods?", "predicted_score": 0.9946}
+{"paper_id": "2024.emnlp-main.178", "question": "RQ2: Can LPO facilitate the generation of more faithful, helpful, and concise evidence?", "predicted_score": 0.9939}
+{"paper_id": "2024.emnlp-main.178", "question": "Can our model perform robustly to noise from irrelevant passages?", "predicted_score": 0.9925}
+{"paper_id": "2024.emnlp-main.178", "question": "RQ4: How effective are the key settings in our model, such as smoothing CoV-weighting?", "predicted_score": 0.9937}
+{"paper_id": "2024.emnlp-main.178", "question": "Research Questions (RQs): RQ1: How does our model contribute to QA accuracy compared with other state-of-the-art methods?", "predicted_score": 0.9946}
+{"paper_id": "2024.emnlp-main.178", "question": "RQ2: Can LPO facilitate the generation of more faithful, helpful, and concise evidence?", "predicted_score": 0.9939}
+{"paper_id": "2024.emnlp-main.178", "question": "Can our model perform robustly to noise from irrelevant passages?", "predicted_score": 0.9925}
+{"paper_id": "2024.emnlp-main.178", "question": "RQ4: How effective are the key settings in our model, such as smoothing CoV-weighting?", "predicted_score": 0.9937}
+{"paper_id": "2024.emnlp-main.178", "question": "Research Questions (RQs): RQ1: How does our model contribute to QA accuracy compared with other state-of-the-art methods?", "predicted_score": 0.9946}
+{"paper_id": "2024.emnlp-main.178", "question": "RQ2: Can LPO facilitate the generation of more faithful, helpful, and concise evidence?", "predicted_score": 0.9939}
+{"paper_id": "2024.emnlp-main.178", "question": "Can our model perform robustly to noise from irrelevant passages?", "predicted_score": 0.9925}
+{"paper_id": "2024.emnlp-main.178", "question": "RQ4: How effective are the key settings in our model, such as smoothing CoV-weighting?", "predicted_score": 0.9937}
+{"paper_id": "2024.emnlp-main.178", "question": "Research Questions (RQs): RQ1: How does our model contribute to QA accuracy compared with other state-of-the-art methods?", "predicted_score": 0.9946}
+{"paper_id": "2024.emnlp-main.178", "question": "RQ2: Can LPO facilitate the generation of more faithful, helpful, and concise evidence?", "predicted_score": 0.9939}
+{"paper_id": "2024.emnlp-main.178", "question": "Can our model perform robustly to noise from irrelevant passages?", "predicted_score": 0.9925}
+{"paper_id": "2024.emnlp-main.180", "question": "How does our framework collaborate with task-specific finetuning models?", "predicted_score": 0.9952}
+{"paper_id": "2024.emnlp-main.181", "question": "More specifically, we ask: how does interpretability and analysis research influence NLP researchers in what they choose to work on, what they cite, and how they think about NLP altogether?", "predicted_score": 0.991}
+{"paper_id": "2024.emnlp-main.194", "question": "Concretely: RQ1: How much linguistic knowledge is encoded in PIXEL?", "predicted_score": 0.9846}
+{"paper_id": "2024.emnlp-main.194", "question": "In this context, we ask the following question: RQ3: Does adding orthographic constraints to the input enhance the linguistic capabilities in PIXEL?", "predicted_score": 0.994}
+{"paper_id": "2024.emnlp-main.194", "question": "Does PIXEL learn syntax and semantics?", "predicted_score": 0.9943}
+{"paper_id": "2024.emnlp-main.194", "question": "If PIXEL still retains much surface information in the higher layers, is it able to perform well on vision tasks?", "predicted_score": 0.9466}
+{"paper_id": "2024.emnlp-main.200", "question": "This raises a fundamental question: how can we efficiently and effectively align powerful LLMs to individual user preferences, especially when personalized data is scarce?", "predicted_score": 0.9936}
+{"paper_id": "2024.emnlp-main.201", "question": "Therefore, we formulate Research Question 1 (RQ1) as follows: do safety guardrails affect the quality of generated counterspeech, and in particular its perceived cogency?", "predicted_score": 0.9925}
+{"paper_id": "2024.emnlp-main.201", "question": "This leads us to Research Question 2 (RQ2): is focusing on a specific component of the hate speech better than generally attacking the entire message?", "predicted_score": 0.9772}
+{"paper_id": "2023.emnlp-main.2", "question": "How does a masked language model acquire the concept of \"neighborhood\" even though absolute position embedding learns without the information about the order of the tokens?", "predicted_score": 0.9919}
+{"paper_id": "2023.emnlp-main.8", "question": "However, this underlying behavioral similarity between ChatGPT and humans naturally leads to an intriguing question: Is Chat-GPT also affected by the primacy effect?", "predicted_score": 0.9836}
+{"paper_id": "2023.emnlp-main.12", "question": "Does lowering \u03b1 thresh after training cause the model to halt earlier, saving computation?", "predicted_score": 0.932}
+{"paper_id": "2023.emnlp-main.16", "question": "Does GPT-4 eval correlate with human eval?", "predicted_score": 0.9926}
+{"paper_id": "2023.emnlp-main.19", "question": "How does STEMCORRUPT improve compositional generalization?", "predicted_score": 0.995}
+{"paper_id": "2023.emnlp-main.30", "question": "In this paper, we would like to answer the following questions: (1) What is the performance for LMs based on smaller models like BabyBERTa on downstream tasks that require fine-tuning?", "predicted_score": 0.9937}
+{"paper_id": "2023.emnlp-main.30", "question": "What is an efficient way to improve the behavior of small pre-trained LMs on downstream tasks?", "predicted_score": 0.9802}
+{"paper_id": "2023.emnlp-main.33", "question": "RQ1: How effective is our method in affective reasoning tasks?", "predicted_score": 0.9948}
+{"paper_id": "2023.emnlp-main.33", "question": "RQ2: How do we justify the causal discriminability of our method?\n\nRQ3: How do we gauge the difference between the latent variable E and designed implicit causes?", "predicted_score": 0.9942}
+{"paper_id": "2023.emnlp-main.34", "question": "In this section, we mainly investigate three questions: (1) How does compression affect lxmert's OOD generalization ability?", "predicted_score": 0.9936}
+{"paper_id": "2023.emnlp-main.34", "question": "How to design the training and pruning pipeline to achieve a good sparsity-performance trade-off?", "predicted_score": 0.9306}
+{"paper_id": "2023.emnlp-main.34", "question": "How to assign sparsity to different modality-specific modules?", "predicted_score": 0.9597}
+{"paper_id": "2023.emnlp-main.36", "question": "Q3: How does ICL use the sequential and temporal information of events?", "predicted_score": 0.9944}
+{"paper_id": "2023.emnlp-main.36", "question": "Q4: How does instruction-tuning affect ICL's performance?", "predicted_score": 0.9943}
+{"paper_id": "2023.emnlp-main.36", "question": "Q5: How does history length affect ICL's performance?", "predicted_score": 0.9929}
+{"paper_id": "2023.emnlp-main.36", "question": "Q6: What is the relation between ICL's performance and model size?", "predicted_score": 0.945}
+{"paper_id": "2023.emnlp-main.51", "question": "What can we learn from collective human opinions on natural language inference data?", "predicted_score": 0.991}
+{"paper_id": "2023.emnlp-main.55", "question": "With our data, we explore the following research questions: (1) How are norm violations in live-stream chats, i.e. synchronous conversations, different from those in previous social media datasets, i.e. asynchronous conversations?; (2) Are existing norm violation or toxicity detection models robust to the distributional shift between the asynchronous and synchronous platforms?", "predicted_score": 0.9905}
+{"paper_id": "2023.emnlp-main.55", "question": "Which features (e.g., context and domain knowledge) are important for detecting norm violation in synchronous conversations?", "predicted_score": 0.9913}
+{"paper_id": "2023.emnlp-main.62", "question": "Response properties: Does the shape of the neural response to words differ based on their recognition times?", "predicted_score": 0.9933}
+{"paper_id": "2023.emnlp-main.64", "question": "How can requesters ensure that workers fully understand a task and complete it accurately?", "predicted_score": 0.9783}
+{"paper_id": "2023.emnlp-main.64", "question": "How do workers react to perceived privacy violations?", "predicted_score": 0.9913}
+{"paper_id": "2023.emnlp-main.65", "question": "In this paper, we raise our first research question RQ1: how does temporal data shift affect the robustness of financial sentiment analysis?", "predicted_score": 0.9929}
+{"paper_id": "2023.emnlp-main.65", "question": "Moreover, we are interested in RQ2: how to mitigate the performance degradation of financial sentiment analysis in the existence of temporal dis-tribution shift?", "predicted_score": 0.9932}
+{"paper_id": "2023.emnlp-main.72", "question": "Thus, we raise the question: How can we build high-quality datasets with little human effort for personalized target-oriented dialogue?", "predicted_score": 0.9699}
+{"paper_id": "2023.emnlp-main.79", "question": "What is the core to defend against adversarial attacks for sparse language models?", "predicted_score": 0.9921}
+{"paper_id": "2023.emnlp-main.79", "question": "How can we efficiently prevent the loss of pre-trained knowledge in pruning to preserve or even enhance robustness?", "predicted_score": 0.9949}
+{"paper_id": "2023.emnlp-main.83", "question": "The results of this work raise major questions, including: Why are synthetic queries effective?", "predicted_score": 0.9536}
+{"paper_id": "2023.emnlp-main.83", "question": "How do we properly leverage large language models and the power of scaling model parameters to benefit generative retrieval on large corpora?", "predicted_score": 0.9949}
+{"paper_id": "2023.emnlp-main.83", "question": "How can we design model scaling recipes and derive scaling laws that maximize retrieval performance?", "predicted_score": 0.9949}
+{"paper_id": "2023.emnlp-main.83", "question": "How can we design architectures that can interpolate between the compute trade-offs of Atomic DocIDs and Sequential DocIDs?", "predicted_score": 0.9946}
+{"paper_id": "2023.emnlp-main.85", "question": "Is ChatGPT a general-purpose NLP task solver?", "predicted_score": 0.9902}
+{"paper_id": "2023.emnlp-main.88", "question": "What are some ways that city planners might improve traffic flow at busy intersections?", "predicted_score": 0.9668}
+{"paper_id": "2023.emnlp-main.95", "question": "Are prompts optimized by existing gradient-free methods robust to distribution shifts?", "predicted_score": 0.994}
+{"paper_id": "2023.emnlp-main.95", "question": "Q1: Why do the prompts optimized on source groups perform differently on a target group?", "predicted_score": 0.9919}
+{"paper_id": "2023.emnlp-main.95", "question": "Q2: Why does the prompt optimized on the source group perform even better than the prompt optimized on the target group in some cases?", "predicted_score": 0.9692}
+{"paper_id": "2023.emnlp-main.97", "question": "Consequently, a necessary question arises (RQ1): can we approximate the original dense weight matrix using substantially fewer parameters?", "predicted_score": 0.9573}
+{"paper_id": "2023.emnlp-main.97", "question": "Hence, we propose another question (RQ2): Could a single shared module encapsulate the same level of knowledge as language-specific modules?", "predicted_score": 0.9806}
+{"paper_id": "2022.emnlp-main.3", "question": "How do transformer-based language models (LMs) construct predictions?", "predicted_score": 0.9938}
+{"paper_id": "2022.emnlp-main.13", "question": "Will model performance improve when all parameters in a model contribute equally?", "predicted_score": 0.9918}
+{"paper_id": "2022.emnlp-main.15", "question": "Pretrained language models: Does RANKGEN improve generation quality regardless of the size and pretraining dataset of the LM?", "predicted_score": 0.9952}
+{"paper_id": "2022.emnlp-main.15", "question": "How well does RANKGEN generalize to shorter and longer prefixes?", "predicted_score": 0.9919}
+{"paper_id": "2022.emnlp-main.15", "question": "How does RANKGEN fare on existing suffix identification benchmarks?", "predicted_score": 0.9938}
+{"paper_id": "2022.emnlp-main.16", "question": "For modeling empirical grammar learning with multi-modal inputs, two important questions still remain open: 1) how can a grammar inducer benefit from large-scale multi-media data (e.g., YouTube videos) with noisy text-to-video correspondence? and 2) how can a grammar inducer show robust performances across multiple domains and datasets?", "predicted_score": 0.9878}
+{"paper_id": "2022.emnlp-main.16", "question": "As a result, we believe that the previous work fails to answer the following important questions: 1) how well a grammar inducer would perform when it is trained only on noisy multi-media data; 2) how the scale of training data would affect the performance and cross-domain robustness?", "predicted_score": 0.993}
+{"paper_id": "2022.emnlp-main.25", "question": "Our evaluation is focused on assessing two aspects of the dilutions: (a) are the dilutions effective in deteriorating the classification performance of the multimodal classifier?, and (b) are the added dilutions relevant to the original text + image, and maintain topical coherence with the existing text?", "predicted_score": 0.9238}
+{"paper_id": "2022.emnlp-main.29", "question": "First, we consider a sentence-level binary classification version of this task: can models correctly predict if a sentence contains coherence errors?", "predicted_score": 0.9733}
+{"paper_id": "2022.emnlp-main.30", "question": "Instead, we ask: what style combinations naturally occur in abstractive summarization datasets and can models automatically disentangle them?", "predicted_score": 0.9856}
+{"paper_id": "2022.emnlp-main.30", "question": "First, we investigate whether individual HYDRA-SUM decoders learn different styles when trained using the standard training objective?", "predicted_score": 0.9936}
+{"paper_id": "2022.emnlp-main.30", "question": "How do HYDRASUM decoders learn different style features?", "predicted_score": 0.9949}
+{"paper_id": "2022.emnlp-main.39", "question": "Does the order of user input, structured knowledge, and context matter?", "predicted_score": 0.992}
+{"paper_id": "2022.emnlp-main.48", "question": "Can neural language models advance reasoning abilities by imitating symbolic reasoners?", "predicted_score": 0.9951}
+{"paper_id": "2022.emnlp-main.48", "question": "Can POET boost reasoning abilities of giant pre-trained language models?", "predicted_score": 0.9947}
+{"paper_id": "2022.emnlp-main.62", "question": "Q1: How does model size influence the quality of generated paraphrases?", "predicted_score": 0.9943}
+{"paper_id": "2022.emnlp-main.62", "question": "How similar are machine-generated paraphrases to human-paraphrases?", "predicted_score": 0.9915}
+{"paper_id": "2022.emnlp-main.63", "question": "For instance, how should we combine widely available internet text (entire corpus), text on computer science (coarse domain), and scarce corpus on machine learning (fine domain) to improve performance in the machine learning domain?", "predicted_score": 0.9596}
+{"paper_id": "2022.emnlp-main.63", "question": "Art Using M2D2, we investigate the following questions, as examples of the broad classes of new questions that can be asked: (1) how well do coarse and fine domains transfer to each other across the hierarchy?", "predicted_score": 0.9868}
+{"paper_id": "2022.emnlp-main.63", "question": "How well can adapted models be applied out-of-domain, within and across ontologies?", "predicted_score": 0.9891}
+{"paper_id": "2022.emnlp-main.63", "question": "What features of target domains are predictive of out-ofdomain transfer?", "predicted_score": 0.9919}
+{"paper_id": "2022.emnlp-main.64", "question": "How can we know if a method consistently places the shortcut tokens on top of its salience rankings?", "predicted_score": 0.9424}
+{"paper_id": "2022.emnlp-main.69", "question": "How well do prompts perform in different data regimes and languages?", "predicted_score": 0.9928}
+{"paper_id": "2022.emnlp-main.69", "question": "How well does our method perform in different data regimes and languages?", "predicted_score": 0.9897}
+{"paper_id": "2022.emnlp-main.71", "question": "However, given that RoBERTa is not a leading RE model, we seek to answer the question-how do sets of learned training instances differ between  RoBERTa and the SOTA RE model?", "predicted_score": 0.9538}
+{"paper_id": "2022.emnlp-main.79", "question": "We start by asking three questions that can inform future research along these avenues: (1) What aspects of commonsense knowledge are already accessible to larger language models?", "predicted_score": 0.9933}
+{"paper_id": "2022.emnlp-main.89", "question": "Is there a disparity in the number of NLP publications across different countries?", "predicted_score": 0.9579}
+{"paper_id": "2022.emnlp-main.89", "question": "How does the amount of publications correlate with linguistic diversity?", "predicted_score": 0.9937}
+{"paper_id": "2022.emnlp-main.89", "question": "Is disparity in citation statistics consistent across research areas within NLP?", "predicted_score": 0.9932}
+{"paper_id": "2022.emnlp-main.96", "question": "How are the latent types distributed over the encoded token representations?", "predicted_score": 0.9882}
+{"paper_id": "2022.emnlp-main.96", "question": "Can Typing Sparsity Loss effectively control the sparsity of token selections?", "predicted_score": 0.9947}
+{"paper_id": "2022.emnlp-main.96", "question": "Can sparse latent typing improve the sentencelevel Natural Language Understanding (NLU) ability?", "predicted_score": 0.9949}
+{"paper_id": "2022.emnlp-main.97", "question": "In this paper, we focus on analyzing fine-tuned models and investigate: how does the latent space evolve in a fine-tuned model?", "predicted_score": 0.9898}
+{"paper_id": "2022.emnlp-main.97", "question": "Specifically, we target the following questions: i) how do the latent spaces compare between base 1 and the fine-tuned models?", "predicted_score": 0.9925}
+{"paper_id": "2022.emnlp-main.97", "question": "How do the latent spaces compare between base and fine-tuned models?", "predicted_score": 0.9937}
+{"paper_id": "2022.emnlp-main.97", "question": "How does the presence of core-linguistic concepts change during transfer learning?", "predicted_score": 0.9944}
+{"paper_id": "2022.emnlp-main.97", "question": "How is the knowledge of downstream tasks structured in a fine-tuned models?", "predicted_score": 0.9739}
+{"paper_id": "2022.emnlp-main.98", "question": "However, all of these methods still suffer from two problems: (1) In-domain Overfitting: The state-of-the-art (SOTA) OOD intent discovery methods (Zhang et al., 2021; Mou et al., 2022) adopt general supervised pre-training objectives such as CE and SCL for IND pre-training, but none of them consider the following question: what kind of intent representation is more generalized to transfer to downstream OOD clustering?", "predicted_score": 0.9729}
+{"paper_id": "2024.eacl-long.1", "question": "Figure 1 : How can we improve LLMs ethical reasoning and its alignment to underlying moral principles?", "predicted_score": 0.9618}
+{"paper_id": "2024.eacl-long.4", "question": "Next, we ask: Can FACTOR accuracy be improved by augmenting models with a retrieval component?", "predicted_score": 0.9822}
+{"paper_id": "2024.eacl-long.5", "question": "Do all papers evaluating these models include a fair comparison with existing baselines?", "predicted_score": 0.9502}
+{"paper_id": "2024.eacl-long.18", "question": "To what extent do sentiment lexicons boost sentiment analysis using pretrained language models?; and (2) Do multilingual sentiment lexicons improve the multilingual generalizability of sentiment analysis, particularly in low-resource languages?", "predicted_score": 0.991}
+{"paper_id": "2024.eacl-long.20", "question": "Specifically, after learning on the k sets of parallel data with attribute annotation, to what extent can we transfer the attribute controller to the remaining N (N -1)k translation directions?", "predicted_score": 0.9078}
+{"paper_id": "2024.eacl-long.26", "question": "How robust is the Fr\u00e9chet Distance for evaluating IR systems with respect to the feature extraction methods used to represent both the ground truth and retrieved items?", "predicted_score": 0.9947}
+{"paper_id": "2024.eacl-long.28", "question": "RQ 1: How does the LM performance in intent recognition and slot filling change when applied to synthetic dialectal data in both English and German?", "predicted_score": 0.9949}
+{"paper_id": "2024.eacl-long.28", "question": "RQ 3: How do LMs differ in terms of robustness to dialectal perturbations?", "predicted_score": 0.9949}
+{"paper_id": "2024.eacl-long.28", "question": "RQ 1: What is the impact of perturbed data on performance?", "predicted_score": 0.9944}
+{"paper_id": "2024.eacl-long.28", "question": "RQ 2: Which perturbations affect performance the most?", "predicted_score": 0.9617}
+{"paper_id": "2024.eacl-long.28", "question": "RQ 3: How does the performance of LMs vary?", "predicted_score": 0.9947}
+{"paper_id": "2024.eacl-long.29", "question": "Accuracy by reasoning types: Since QuALITY questions require different reasoning strategies to solve, what types of reasoning does PEARL help improve the most?", "predicted_score": 0.9847}
+{"paper_id": "2024.eacl-long.30", "question": "We investigate: (i) can LLMs effectively perform Arabic NLP and Speech processing tasks without prior task-specific knowledge (zero-shot)?", "predicted_score": 0.9945}
+{"paper_id": "2024.eacl-long.35", "question": "Therefore, we seek to answer the question: How effective are nearest neighbors retrieval methods for occupational skill extraction?", "predicted_score": 0.9901}
+{"paper_id": "2024.eacl-long.35", "question": "If NNOSE actually retrieves from other datasets when they are combined (Section 5.2), and if there is a sign of leveraging multiple datasets, then; 3 How much does NNOSE enhance performance in a cross-dataset setting (Section 5.3)?", "predicted_score": 0.9729}
+{"paper_id": "2024.eacl-long.46", "question": "RQ2) Do models' absolute scores differ between the two approaches?", "predicted_score": 0.994}
+{"paper_id": "2024.eacl-long.46", "question": "Do the answers to the two previous questions differ between general and domain-specific models?", "predicted_score": 0.9933}
+{"paper_id": "2024.eacl-long.48", "question": "With the unsupervised identification of encoded concepts by a clustering algorithm, a question arises: how can we effectively compare various clustering algorithms in relation to their ability to uncover these concepts?", "predicted_score": 0.9905}
+{"paper_id": "2024.eacl-long.48", "question": "We first compare the algorithms on exactly the same underlying dataset to answer the question how does concept discovery quality compare across clustering algorithms?", "predicted_score": 0.9941}
+{"paper_id": "2024.eacl-long.48", "question": "Given that K-Means results in higher quality concept discovery, we now ask the following question: Does scaling the underlying dataset improve concept discovery?", "predicted_score": 0.9948}
+{"paper_id": "2024.eacl-long.50", "question": "In light of this reality, how might we engage local speech communities in the design of language technologies?", "predicted_score": 0.9873}
+{"paper_id": "2024.eacl-long.51", "question": "Thus, we explore this open question: should we use classical or neural topic models for label induction and content analysis?", "predicted_score": 0.9747}
+{"paper_id": "2024.eacl-long.59", "question": "Q1: Does the utilization of multiple positives yield more substantial benefits to the model compared to conventional CL with a single positive?", "predicted_score": 0.9931}
+{"paper_id": "2024.eacl-long.59", "question": "Q2: Does the effectiveness of leveraging multiple positives still hold for stronger sentence embedding models?", "predicted_score": 0.9944}
+{"paper_id": "2024.eacl-long.60", "question": "Which moderation functions of expert moderators (e.g., keeping discussion on topic, improve comment quality) are taken over by users more frequently?", "predicted_score": 0.9906}
+{"paper_id": "2024.eacl-long.60", "question": "In what follows, we employ regression analyses to address the following research questions: (a) How do annotators define constructiveness?", "predicted_score": 0.9935}
+{"paper_id": "2024.eacl-long.66", "question": "In other words, do corpus statistics support previous cognitive science studies?", "predicted_score": 0.9927}
+{"paper_id": "2024.eacl-long.81", "question": "RQ3: How widely can the bias scores computed by these models generalize?", "predicted_score": 0.9942}
+{"paper_id": "2024.eacl-long.81", "question": "Can they compare bias in different articles and in other texts beyond Wikipedia articles?", "predicted_score": 0.9758}
+{"paper_id": "2024.eacl-long.84", "question": "In other words, can neural parsing models benefit from a joint approach to segmentation and parsing, similar to what has been observed in non-neural models?", "predicted_score": 0.9934}
+{"paper_id": "2023.eacl-main.10", "question": "Leveraging data from five typologically distinct languages, including one endangered language, we ask: (1) How dependent is ASR performance on the identity of the held-out speaker?", "predicted_score": 0.9911}
+{"paper_id": "2023.eacl-main.10", "question": "Can alternative data partitioning strategies yield less variable estimates of a model's generalizability?", "predicted_score": 0.9937}
+{"paper_id": "2023.eacl-main.10", "question": "How can we operationalize lessons learned to improve ASR evaluation for under-resourced and endangered languages?", "predicted_score": 0.9952}
+{"paper_id": "2023.eacl-main.11", "question": "We evaluate two aspects: (1) How does question length impact localization?", "predicted_score": 0.9944}
+{"paper_id": "2023.eacl-main.11", "question": "Does human QG improve localization?", "predicted_score": 0.9951}
+{"paper_id": "2023.eacl-main.16", "question": "How does Fiverr protect freelancers' personal information?", "predicted_score": 0.9881}
+{"paper_id": "2023.eacl-main.23", "question": "The question we want to address is: how can we quantitatively compare methods without model selection?", "predicted_score": 0.9059}
+{"paper_id": "2023.eacl-main.24", "question": "Can PLMs act as knowledge bases and also reliably reason using their own knowledge?", "predicted_score": 0.9947}
+{"paper_id": "2023.eacl-main.24", "question": "How can we improve our models, and possibly our dataset and task formulation?", "predicted_score": 0.9307}
+{"paper_id": "2023.eacl-main.25", "question": "RQ1: How does SarcPrompt perform under the standard supervised settings?", "predicted_score": 0.9946}
+{"paper_id": "2023.eacl-main.25", "question": "RQ2: How does SarcPrompt perform under the low-resource settings?", "predicted_score": 0.9947}
+{"paper_id": "2023.eacl-main.25", "question": "RQ3: Which prompt performs best and why?", "predicted_score": 0.9864}
+{"paper_id": "2023.eacl-main.44", "question": "Our aim is to investigate the extent to which a system like ChatGPT could serve as a tool for teaching about aspect; in other words, what does ChatGPT know about aspect?", "predicted_score": 0.9474}
+{"paper_id": "2023.eacl-main.53", "question": "Does such a system fit the definition of a task-oriented dialogue system that are traditionally designed to assist users in completing their tasks such as restaurant or flight booking (Zhang et al., 2020c )?", "predicted_score": 0.9823}
+{"paper_id": "2023.eacl-main.76", "question": "Which treebanks contain the most (or least) information that is actually usable by a parser, with respect to a naive baseline?", "predicted_score": 0.9932}
+{"paper_id": "2023.eacl-main.77", "question": "In light of this, two main questions naturally arise: (1) Do prompt-based semantic parsers based on large pre-trained language models also suffer from adversarial attacks?", "predicted_score": 0.9938}
+{"paper_id": "2023.eacl-main.77", "question": "If so, how can we improve the robustness of the large promptbased semantic parsers?", "predicted_score": 0.9689}
+{"paper_id": "2023.eacl-main.77", "question": "RQ3: Does adversarial in-context learning improve robustness?", "predicted_score": 0.9948}
+{"paper_id": "2023.eacl-main.91", "question": "Can the policy learn to differentiate between both dialog modes?", "predicted_score": 0.9829}
+{"paper_id": "2023.eacl-main.95", "question": "RQ1: Can automated reference-based MT metrics be reliably predicted without the reference?", "predicted_score": 0.9946}
+{"paper_id": "2023.eacl-main.95", "question": "What is the effect of data size on predicting automated reference-based MT metrics?", "predicted_score": 0.9944}
+{"paper_id": "2023.eacl-main.95", "question": "RQ3: How detrimental is the transfer between different MT systems for metric estimation models?", "predicted_score": 0.9943}
+{"paper_id": "2023.eacl-main.95", "question": "RQ4: Can metric estimation be used as a pretraining step for quality estimation?", "predicted_score": 0.9948}
+{"paper_id": "2024.acl-long.3", "question": "In this study, we try to address the following research questions: (1) Can existing detection methods effectively distinguish texts generated by diverse LLMs for various writing tasks in real-world scenarios?", "predicted_score": 0.9937}
+{"paper_id": "2024.acl-long.3", "question": "Are there inherent distinctions between human-written texts and machine-generated texts in an open-domain setting, irrespective of their topic or content?", "predicted_score": 0.9936}
+{"paper_id": "2024.acl-long.4", "question": "RQ1: Do LMs share similar utility under the same DP budget?", "predicted_score": 0.9943}
+{"paper_id": "2024.acl-long.4", "question": "Are empirical privacy attacks effective on LMs with and without privacy protection?", "predicted_score": 0.9946}
+{"paper_id": "2024.acl-long.12", "question": "What are the impacts of different SFT strategies for composite data?", "predicted_score": 0.9769}
+{"paper_id": "2024.acl-long.12", "question": "Q1: Does the performance of the model vary with different ratios of general and specialized data?", "predicted_score": 0.9937}
+{"paper_id": "2024.acl-long.12", "question": "Q2: Under extremely limited general data resources, does the ratio of specialized data have an impact on the model's performance?", "predicted_score": 0.9919}
+{"paper_id": "2024.acl-long.18", "question": "Can machines mine scientific papers and learn to suggest new directions?", "predicted_score": 0.9834}
+{"paper_id": "2024.acl-long.35", "question": "In light of these challenges, we pose the following questions: (1) Is it possible to leverage existing expert knowledge to enhance the efficiency of event coding without extensive annotation of new data?", "predicted_score": 0.9946}
+{"paper_id": "2024.acl-long.35", "question": "We conducted an ablation study to address the following questions on ZSP: (1) Is a tree-query approach superior to a flat-query approach, which compares all hypotheses at single level simultaneously?", "predicted_score": 0.9933}
+{"paper_id": "2024.acl-long.35", "question": "Does having more hypotheses guarantee better performance?", "predicted_score": 0.9871}
+{"paper_id": "2024.acl-long.38", "question": "Specifically, we aim to answer two critical research questions: (1) Does task interference exist in parameter-efficient multimodal instruction tuning?", "predicted_score": 0.9935}
+{"paper_id": "2024.acl-long.38", "question": "How can we effectively mitigate this issue for robust and versatile performance across various multimodal tasks?", "predicted_score": 0.9954}
+{"paper_id": "2024.acl-long.39", "question": "In this section, we aim to answer three research questions: (RQ1) How do different medical generation models perform under our evaluation?", "predicted_score": 0.9936}
+{"paper_id": "2024.acl-long.39", "question": "How is the evaluation quality of DOCLENS compared to existing metrics?", "predicted_score": 0.9948}
+{"paper_id": "2024.acl-long.42", "question": "Here, we present a supplementary quantitative analysis on the impact of the number of source languages on XLT, addressing two research questions: (1) Is MSLT consistently superior to SSLT, at least in the evaluated environments?", "predicted_score": 0.9939}
+{"paper_id": "2024.acl-long.46", "question": "Do zero-shot models understand dialogs?", "predicted_score": 0.9945}
+{"paper_id": "2024.acl-long.47", "question": "RQ4: Do these effects generalize to a new and more difficult situation?", "predicted_score": 0.9942}
+{"paper_id": "2024.acl-long.48", "question": "The goal of this evaluation is to address the question: Can RapidIn effectively retrieve the poisoned data from the given generations that have been successfully attacked?", "predicted_score": 0.977}
+{"paper_id": "2024.acl-long.54", "question": "RQ1 How do differences in the use of pre-trained language models (i.e., finetuning vs. few-shot) affect overall performance?", "predicted_score": 0.9897}
+{"paper_id": "2024.acl-long.54", "question": "RQ2 Is multimodal information useful for ad text generation?", "predicted_score": 0.9944}
+{"paper_id": "2024.acl-long.61", "question": "This raises our research problem: How to enhance the interaction ability of the agent system through the underlying model's robust intention understanding?", "predicted_score": 0.9865}
+{"paper_id": "2024.acl-long.65", "question": "Several critical challenges remain to be addressed in future research, which we summarize as follows: (1) Vision-text interaction: How can visual and textual features be effectively integrated, than solely depending on captions?", "predicted_score": 0.993}
+{"paper_id": "2024.acl-long.65", "question": "Faithful reasoning encounters two significant challenges: (1) Detection: How can unfaithful reasoning be accurately identified?", "predicted_score": 0.9859}
+{"paper_id": "2024.acl-long.65", "question": "In what way does CoT enhance reasoning compared to standard few-shot prompting?", "predicted_score": 0.9932}
+{"paper_id": "2024.acl-long.65", "question": "The discussion encompasses three topics: (a) How does chain-of-thought reasoning ability emerge with large-scale pre-training?", "predicted_score": 0.9935}
+{"paper_id": "2024.acl-long.65", "question": "Open Question: Does CoT ability originate from code data pre-training?", "predicted_score": 0.9918}
+{"paper_id": "2024.acl-long.65", "question": "Is there a fundamental distinction between feedback from other language models and self-feedback?", "predicted_score": 0.9563}
+{"paper_id": "2024.acl-long.65", "question": "Does the feedback quality still remain constrained by the model's capability boundaries?", "predicted_score": 0.965}
+{"paper_id": "2024.acl-long.66", "question": "We aim to explore the following questions: Does CoT prompting bring consistent improvement in temporal reasoning?", "predicted_score": 0.9949}
+{"paper_id": "2024.acl-long.67", "question": "To address the aforementioned challenges, our research focuses on the following question: How can models adaptively select and integrate knowledge from different sources during the reasoning, while reducing cascading errors in subquestions aggregation?", "predicted_score": 0.9941}
+{"paper_id": "2024.acl-long.68", "question": "Can models trained on ANALOGYKB acquire better analogy recognition abilities?", "predicted_score": 0.9946}
+{"paper_id": "2024.acl-long.68", "question": "How much do analogies of analogous relations in ANALOGYKB contribute to performance?", "predicted_score": 0.9927}
+{"paper_id": "2024.acl-long.68", "question": "Does ANALOGYKB help LMs generalize to outof-domain analogies?", "predicted_score": 0.9945}
+{"paper_id": "2024.acl-long.68", "question": "Can ANALOGYKB better support analogy explanation for LLMs?", "predicted_score": 0.995}
+{"paper_id": "2024.acl-long.77", "question": "This raises an interesting research question: Can we maintain the LLM's ability during continual learning without using real data in previous training stages?", "predicted_score": 0.9878}
+{"paper_id": "2024.acl-long.99", "question": "How well does the response demonstrate understanding and sensitivity to the user's feelings and emotions by reflecting compassion, offering support or acknowledgment of the user's emotional state, and fostering a sense of care?", "predicted_score": 0.9794}
+{"paper_id": "2024.acl-long.105", "question": "Do data quality and quantity matter for fine-tuning performance with synthetic data?", "predicted_score": 0.9945}
+{"paper_id": "2024.acl-long.105", "question": "Can synthetic fine-tuning and evaluation contribute to the performance on OOD data and real-world applications?", "predicted_score": 0.9955}
+{"paper_id": "2024.acl-long.105", "question": "How does natural selection interact with genetic drift?", "predicted_score": 0.9911}
+{"paper_id": "2024.acl-long.110", "question": "For instance, does the impact of moving from 20 to 21 BLEU differ significantly from a shift from 60 to 61 BLEU in different system pairs?", "predicted_score": 0.9733}
+{"paper_id": "2024.acl-long.111", "question": "Can LLMs understand the values behind linguistic expressions?", "predicted_score": 0.9854}
+{"paper_id": "2024.acl-long.115", "question": "RQ1): How does our REANO perform against the baselines?", "predicted_score": 0.9944}
+{"paper_id": "2024.acl-long.115", "question": "RQ2): Does different components of our model affect the performance?", "predicted_score": 0.9942}
+{"paper_id": "2024.acl-long.115", "question": "RQ3): Can knowledge triples help to reduce the number of passages while maintaining satisfactory performance?", "predicted_score": 0.9946}
+{"paper_id": "2024.acl-long.115", "question": "RQ4): How does the hyperparameter \u03b2 affect the performance of REANO?", "predicted_score": 0.9946}
+{"paper_id": "2024.acl-long.118", "question": "The above discussion motivates us to answer a question: Since ID and OOD examples can be more easily distinguished when the measurement disagreement is larger, can we improve outlier detection in OSTC by directly maximizing such measurement disagreement between ID and OOD exam-ples?", "predicted_score": 0.9834}
+{"paper_id": "2024.acl-long.118", "question": "This motivates us to consider: How can we exploit the properties of cross-measurement disagreements to promote disagreement maximization and rectify abnormal examples?", "predicted_score": 0.9633}
+{"paper_id": "2024.acl-long.123", "question": "In which situations do AED methods make mistakes, such as detecting false positive errors?", "predicted_score": 0.9209}
+{"paper_id": "2024.acl-long.125", "question": "We ran the positional bias experiment (on GPT3.5) on TREC-COVID for 3 times to investigate the following: given the same input, does LLMs generate the same output multiple times?", "predicted_score": 0.9418}
+{"paper_id": "2024.acl-long.126", "question": "Does the counter speech address all claims/arguments in the supporting speech?", "predicted_score": 0.9206}
+{"paper_id": "2024.acl-long.132", "question": "In this work, we study the following research question: How can we effectively leverage the knowledge from LLMs to enhance the comprehensive understanding and reasoning of the images and questions in KVQA?", "predicted_score": 0.9937}
+{"paper_id": "2024.acl-long.132", "question": "RQ4 (Case study): How effectively does MAIL work in real-world VQA tasks?", "predicted_score": 0.9948}
+{"paper_id": "2024.acl-long.138", "question": "We conduct experiments to fully evaluate our Hy-CoRec and answer the following questions: \u2022 RQ1: How does HyCoRec perform compared with all baselines in the recommendation task?", "predicted_score": 0.9943}
+{"paper_id": "2024.acl-long.138", "question": "RQ2: How does HyCoRec perform compared with all baselines in the conversation task?", "predicted_score": 0.9947}
+{"paper_id": "2024.acl-long.138", "question": "RQ3: How does HyCoRec alleviate Matthew effect in the CRS?\n\nword , and item reviews R contribute to the performance?", "predicted_score": 0.9929}
+{"paper_id": "2024.acl-long.143", "question": "This raises an intriguing question: Could we conserve cache space occupied by recent tokens by only preserving the past key-value states of critical tokens?", "predicted_score": 0.9622}
+{"paper_id": "2024.acl-long.154", "question": "Our experiments will investigate the following research questions: (1) Can the model obtain the capability to solve search tasks through instruction tuning on INTERS?", "predicted_score": 0.995}
+{"paper_id": "2024.acl-long.171", "question": "Lee et al. (2024) observe that previous approaches like DPO merely suppress the activations of toxic parameters and leave the aligned model still vulnerable to attacks, raising the research question: Can we precisely modify the toxic regions in LLMs to achieve detoxification?", "predicted_score": 0.925}
+{"paper_id": "2024.acl-long.173", "question": "Question 6: Is the automatic scores generated by GPT4 agree with human perspectives?", "predicted_score": 0.9927}
+{"paper_id": "2024.acl-long.189", "question": "Does Prompt Expansion increase diversity of the generated images?", "predicted_score": 0.9939}
+{"paper_id": "2024.acl-long.189", "question": "Does prompt optimization lead to better aesthetics?", "predicted_score": 0.9306}
+{"paper_id": "2024.acl-long.189", "question": "Does increased diversity of samples lead to better aesthetics?", "predicted_score": 0.9912}
+{"paper_id": "2024.acl-long.189", "question": "Does Prompt Expansion balance between aesthetics and text-image alignment?", "predicted_score": 0.9949}
+{"paper_id": "2024.acl-long.189", "question": "Can controllable generation improve performance?", "predicted_score": 0.9732}
+{"paper_id": "2024.acl-long.189", "question": "Can we attribute aesthetic preference of prompt expanded images over straight-query images to improved prompt construction / engineering?", "predicted_score": 0.9942}
+{"paper_id": "2024.acl-long.194", "question": "Can LLM-Embedder support the LLM's diverse retrieval augmentation need?", "predicted_score": 0.991}
+{"paper_id": "2024.acl-long.195", "question": "Is it possible for these models to conceptualize and employ visual imagery (like F + _ \u2192 E) despite their training limitations?", "predicted_score": 0.9153}
+{"paper_id": "2024.acl-long.198", "question": "With more robust understanding of how LMs use epistemic markers, we shift our focus to the second inquiry: how do humans interpret LM-generated epistemic markers?", "predicted_score": 0.9926}
+{"paper_id": "2023.acl-long.6", "question": "We evaluate the effectiveness of our model through a series of experiments designed to answer the following questions: 1) How effective is the proposed model architecture at DST in general?", "predicted_score": 0.9945}
+{"paper_id": "2023.acl-long.6", "question": "Does the model generalize well to unseen services?", "predicted_score": 0.95}
+{"paper_id": "2023.acl-long.6", "question": "Is the model robust to changes in schema such as different slot names and descriptions?", "predicted_score": 0.9645}
+{"paper_id": "2023.acl-long.13", "question": "One intuitive question is What causes the collapse problem in Open-LTG when using pre-trained MLMs?", "predicted_score": 0.9681}
+{"paper_id": "2023.acl-long.14", "question": "Do contextual vectors primarily reflect different kinds of meaning for abstract words besides word sense?", "predicted_score": 0.9948}
+{"paper_id": "2023.acl-long.17", "question": "This raises an interesting question: since document-level EAE doesn't satisfy the hypothesis of similarity-based retrieval, how do we design the retrieval strategy for document-level EAE?", "predicted_score": 0.9464}
+{"paper_id": "2023.acl-long.17", "question": "First, if similar documents cannot guarantee the same distribution of event labels, does it make sense to pursue x r to be similar to x in retrieval process?", "predicted_score": 0.9198}
+{"paper_id": "2023.acl-long.23", "question": "RQ1) How do gender-neutral pronouns affect the overall translation quality?", "predicted_score": 0.9941}
+{"paper_id": "2023.acl-long.23", "question": "How do MT engines handle gender-neutral pronouns?", "predicted_score": 0.9937}
+{"paper_id": "2023.acl-long.23", "question": "RQ3) Which MT strategies for handling genderneutral pronouns \"work\"?", "predicted_score": 0.9919}
+{"paper_id": "2023.acl-long.26", "question": "Level 1: Do EPLMs encode moral knowledge that mirrors the moral norms in different countries?", "predicted_score": 0.9939}
+{"paper_id": "2023.acl-long.26", "question": "Level 2: Can EPLMs infer the cultural diversity and shared tendencies in moral judgment of different topics?", "predicted_score": 0.9944}
+{"paper_id": "2023.acl-long.38", "question": "How can we train unstructured neural sequence models that generalize compositionally?", "predicted_score": 0.9949}
+{"paper_id": "2023.acl-long.41", "question": "Can a model identify highly rated captions?", "predicted_score": 0.9479}
+{"paper_id": "2023.acl-long.41", "question": "Q1: Do models utilize the image context of the caption to generate better explanations?", "predicted_score": 0.9946}
+{"paper_id": "2023.acl-long.41", "question": "Q2: Is computer vision a bottleneck for topquality explanation generation?", "predicted_score": 0.9942}
+{"paper_id": "2023.acl-long.41", "question": "Q3: Do bigger T5 models generate better explanations?", "predicted_score": 0.9923}
+{"paper_id": "2023.acl-long.41", "question": "Q4: Does fine-tuning an LLM model help vs. in-context learning for explanation generation?", "predicted_score": 0.9946}
+{"paper_id": "2023.acl-long.41", "question": "Q5: Do supervised explanations help, even with GPT-4?", "predicted_score": 0.9861}
+{"paper_id": "2023.acl-long.41", "question": "Q6: Does GPT-4 outperform GPT-3?", "predicted_score": 0.9907}
+{"paper_id": "2023.acl-long.41", "question": "Q7: Does our best model, GPT-4, explain jokes as well as humans?", "predicted_score": 0.9909}
+{"paper_id": "2023.acl-long.47", "question": "In this section, we will discuss the effectiveness of our method by answering three questions: 1) How do different optimization settings impact performance?", "predicted_score": 0.9936}
+{"paper_id": "2023.acl-long.47", "question": "Can the proposed method effectively reduce epistemic uncertainty?", "predicted_score": 0.9658}
+{"paper_id": "2023.acl-long.49", "question": "Considering this aspect, beyond the implicit and agnostic cross-linguality, we are interested in the question: can models learn explicit and principled cross-linguality in multilingual pre-training without any supervision?", "predicted_score": 0.9876}
+{"paper_id": "2023.acl-long.50", "question": "RQ1: How good are end-to-end large language models used alone for generating hedges when finetuned on a peer-tutoring dialogue dataset?", "predicted_score": 0.995}
+{"paper_id": "2023.acl-long.50", "question": "Are the models able to implicitly learn when and how to generate hedges?", "predicted_score": 0.9907}
+{"paper_id": "2023.acl-long.50", "question": "RQ1: How well do end-to-end models perform alone for generating hedges?", "predicted_score": 0.9951}
+{"paper_id": "2023.acl-long.50", "question": "Goal Mismatch error directly addresses our primary question 1: How effectively do end-to-end models perform when generating hedges on their own?", "predicted_score": 0.9936}
+{"paper_id": "2023.acl-long.50", "question": "However, do language models spontaneously use different types of hedges in a human-like way?", "predicted_score": 0.9916}
+{"paper_id": "2023.acl-long.51", "question": "Are relationships between individual instances made explicit (e.g., users' movie ratings, social network links)?", "predicted_score": 0.9789}
+{"paper_id": "2023.acl-long.54", "question": "Q1: Does mixing language features and labels lead to better ground truth estimates than those that use labels only?", "predicted_score": 0.994}
+{"paper_id": "2023.acl-long.54", "question": "Q2: Does mixing features and labels in the first stage lead to better label distribution learning in the second?", "predicted_score": 0.9943}
+{"paper_id": "2023.acl-long.54", "question": "Q3: Do our methods lead to better single-label learning (SL)?", "predicted_score": 0.9942}
+{"paper_id": "2023.acl-long.55", "question": "To what extent do the instances answered by different post-abstention methods overlap?", "predicted_score": 0.9701}
+{"paper_id": "2023.acl-long.59", "question": "We then move to group-model agreement (comparing the labels and rationales of our annotator groups to model predictions and model rationales) and ask: Do models' explanations align better with certain demographic groups compared to others?", "predicted_score": 0.9878}
+{"paper_id": "2023.acl-long.60", "question": "The analyses in ALERT are inspired by a scientific question: To what extent do LLMs learn generalizable reasoning abilities?", "predicted_score": 0.9922}
+{"paper_id": "2023.acl-long.62", "question": "In this section, we attempt to answer the following questions: RQ1: Does JCB perform better than existing methods?", "predicted_score": 0.9931}
+{"paper_id": "2023.acl-long.62", "question": "RQ2: Are the constrained learning and boundary-adjusted mechanism the key factors affecting the performance?", "predicted_score": 0.9938}
+{"paper_id": "2023.acl-long.62", "question": "RQ4: How does JCB perform on more unbalanced data?", "predicted_score": 0.9948}
+{"paper_id": "2023.acl-long.69", "question": "Is human-aligned metric better at distinguishing between different levels of human-like quality of system outputs?", "predicted_score": 0.9951}
+{"paper_id": "2023.acl-long.69", "question": "Aspect-level preference Preference similarity between human and automatic metrics on identifying different levels of human-like quality Do human and automatic metrics rank the quality of system outputs similarly?", "predicted_score": 0.995}
+{"paper_id": "2023.acl-long.69", "question": "System-level evaluation Evaluating the metric effectiveness at discerning system-level performance Is human-aligned metric better at discerning performance of independent NLG systems?", "predicted_score": 0.9952}
+{"paper_id": "2023.acl-long.69", "question": "Do human and automatic metrics rank systems similarly?", "predicted_score": 0.9944}
+{"paper_id": "2023.acl-long.75", "question": "We consider two questions about PLMs calibration: (1) Do PLMs learn to become calibrated in the training process?", "predicted_score": 0.993}
+{"paper_id": "2023.acl-long.75", "question": "Do PLMs Learn to Become Calibrated?", "predicted_score": 0.9918}
+{"paper_id": "2023.acl-long.75", "question": "We take a close look into PLMs calibration, motivating to answer two central questions: (1) Do PLMs learn to become calibrated in the training process?", "predicted_score": 0.993}
+{"paper_id": "2023.acl-long.79", "question": "Our results raise an interesting question for future research: can we achieve finetuning-level performance by using thousands or even more examples as context?", "predicted_score": 0.9758}
+{"paper_id": "2023.acl-long.85", "question": "If we can access some targeted OOD data X ood in the training process, what can we do to incorporate them into PTO to boost OOD detection performance?", "predicted_score": 0.9362}
+{"paper_id": "2023.acl-long.87", "question": "Our observations motivate our next question: How do data and losses impact fine-grained understanding?", "predicted_score": 0.9752}
+{"paper_id": "2023.acl-long.87", "question": "Which Fine-grained Models Perform Well on Fine-grained Tasks?", "predicted_score": 0.9948}
+{"paper_id": "2023.acl-long.87", "question": "For example, does action understanding in VALSE correlate with verb understanding in SVO-Probes?", "predicted_score": 0.993}
+{"paper_id": "2023.acl-long.90", "question": "In this work, we focus on a more practical setting and ask: Can smaller LMs, e.g., BART which is about 400\u00d7 smaller than GPT-3, support reasoning and inference in an end-to-end manner?", "predicted_score": 0.9614}
+{"paper_id": "2023.acl-long.90", "question": "In this section, we examine the question: Does jointly optimizing the elaboration generator with the answer predictor outperform approaches that merely retrieve knowledge from trained models, if at all?", "predicted_score": 0.9831}
+{"paper_id": "2023.acl-long.95", "question": "Despite the great success of this paradigm, two questions still come to our mind: (1) Why can a PLM with hundreds of millions of parameters be successfully fine-tuned on different downstream tasks using only hundreds or thousands of labeled samples?", "predicted_score": 0.9886}
+{"paper_id": "2023.acl-long.95", "question": "Do we really need a full fine-tuning of all parameters of a PLM to reach state-of-the-art performance on downstream tasks?", "predicted_score": 0.9854}
+{"paper_id": "2023.acl-long.96", "question": "Supportiveness: which bot provides more effective ES, i.e., is more likely to elicit users to change their emotions from negative to positive?", "predicted_score": 0.9799}
+{"paper_id": "2023.acl-long.97", "question": "RQ 1 Is it essential to generate queries for knowledge selection?", "predicted_score": 0.9942}
+{"paper_id": "2023.acl-long.97", "question": "RQ 3 Is the performance of the generated query superior to other state-of-the-art approaches?", "predicted_score": 0.9944}
+{"paper_id": "2022.acl-long.5", "question": "We conduct experiments on TAT-HQA dataset to answer the following questions: RQ1: How does L2I perform on HQA?", "predicted_score": 0.994}
+{"paper_id": "2022.acl-long.16", "question": "The main question this paper attempts to answer is: how to reduce the risk of overfitting of pre-trained language models caused by pruning?", "predicted_score": 0.9658}
+{"paper_id": "2022.acl-long.18", "question": "How does increased LRL representation in the vocabulary impact accuracy?", "predicted_score": 0.9943}
+{"paper_id": "2022.acl-long.21", "question": "Current study of NID centers around two basic research questions: 1) How to learn semantic utterance representations to provide proper cues for clustering?", "predicted_score": 0.9948}
+{"paper_id": "2022.acl-long.37", "question": "We conduct experiments to answer the following research questions: (1) How effective is CODE-SCRIBE compared with the state-of-the-art baselines?", "predicted_score": 0.9949}
+{"paper_id": "2022.acl-long.37", "question": "What is the impact of model size on the performance of CODESCRIBE?", "predicted_score": 0.939}
+{"paper_id": "2022.acl-long.40", "question": "How robust are existing (near) state-of-theart table-text encoding models to semantic preserving perturbations in the input?", "predicted_score": 0.9942}
+{"paper_id": "2022.acl-long.40", "question": "How does TABLEFORMER compare with existing table-text encoding models when tested on similar perturbations, both in terms of performance and robustness?", "predicted_score": 0.9944}
+{"paper_id": "2022.acl-long.40", "question": "Can we use perturbation based data augmentation to achieve robustness at test time?", "predicted_score": 0.9668}
+{"paper_id": "2022.acl-long.46", "question": "In Table 13 , we have shown that Len and LC control tokens affect readability via HF, but two questions are still unclear: Q1: Whether these control tokens have the desired effects on their associated attributes, length and lexical complexity?", "predicted_score": 0.9878}
+{"paper_id": "2022.acl-long.46", "question": "Q2: What is the correlation between LC and readability?", "predicted_score": 0.913}
+{"paper_id": "2022.acl-long.49", "question": "How does ALC compare with baselines using standard evaluation (accuracy) on free-form multiple choice question answering tasks?", "predicted_score": 0.9942}
+{"paper_id": "2022.acl-long.49", "question": "Section 5.1) Q2 Does the aforementioned evaluation reflect true model capability?", "predicted_score": 0.9356}
+{"paper_id": "2022.acl-long.49", "question": "Section 5.2) Q3 Does ALC improve expected calibration error (Guo et al., 2017) ?", "predicted_score": 0.9851}
+{"paper_id": "2022.acl-long.53", "question": "Is in-context learning more robust to distribution shift (Lester et al., 2021 )?", "predicted_score": 0.9805}
+{"paper_id": "2022.acl-long.55", "question": "We thus study the problem of interactive WSL: how can we automatically discover more high-quality labeling rules to enhance the performance of WSL?", "predicted_score": 0.9938}
+{"paper_id": "2022.acl-long.58", "question": "Q1:How does the Coast Guard maintain the safety and efficacy of the country's marine transportation system?", "predicted_score": 0.9614}
+{"paper_id": "2022.acl-long.60", "question": "Next, we ask: How does our method compare to selecting a template based on the accuracy of a few-labeled examples?", "predicted_score": 0.9407}
+{"paper_id": "2022.acl-long.64", "question": "Is sentiment analysis related to paraphrasing?", "predicted_score": 0.9825}
+{"paper_id": "2022.acl-long.64", "question": "Is textual entailment more related to question answering than named entity recognition?", "predicted_score": 0.9951}
+{"paper_id": "2022.acl-long.66", "question": "Does Crowd-sourcing Introduce Annotation Artifacts to Dataset?", "predicted_score": 0.9951}
+{"paper_id": "2022.acl-long.72", "question": "Does Auto-Debias affect downstream NLP tasks?", "predicted_score": 0.9953}
+{"paper_id": "2022.acl-long.75", "question": "Does fine-tuning always improve performance?", "predicted_score": 0.9951}
+{"paper_id": "2022.acl-long.75", "question": "How does fine-tuning alter the representation to adjust for downstream tasks?", "predicted_score": 0.9944}
+{"paper_id": "2022.acl-long.75", "question": "How does fine-tuning change the geometric structure of different layers?", "predicted_score": 0.9935}
+{"paper_id": "2022.acl-long.75", "question": "How does fine-tuning change the underlying geometric structure of different layers?", "predicted_score": 0.9945}
+{"paper_id": "2022.acl-long.88", "question": "By evaluating our TBS model variants with other baselines, we aim to address the following questions: 1) do TBS models produce better responses than standard end-to-end RG models?", "predicted_score": 0.9944}
+{"paper_id": "2022.acl-long.88", "question": "TBS more helpful for RG? 3) do TBS RG models generate knowledge that makes sense and is relevant to the dialogue context?", "predicted_score": 0.9753}
+{"paper_id": "2022.acl-long.88", "question": "Does TBS produce better responses vs. endto-end RG?", "predicted_score": 0.9933}
+{"paper_id": "2022.acl-long.88", "question": "Is TBS knowledge generation better than other knowledge-augmented RG?", "predicted_score": 0.9888}
+{"paper_id": "2022.acl-long.88", "question": "We use human evaluation and focus on three dimensions: does the model generate novel knowledge that does not appear in ConceptNet?", "predicted_score": 0.952}
+{"paper_id": "2022.acl-long.95", "question": "Given a set of target-domain synthetic QA pairs, how to select high-quality ones that are useful to improve target-domain QA training?", "predicted_score": 0.9928}
+{"paper_id": "2022.acl-long.97", "question": "Can we learn meaningful user communities?", "predicted_score": 0.9639}
+{"paper_id": "2022.acl-long.98", "question": "Therefore, in this section, we study a further question: can we perform analyses on a specific person entity and measure its gender biases based on how its gender change its link prediction error (i.e. causality)?", "predicted_score": 0.9072}

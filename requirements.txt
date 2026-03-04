@@ -1,0 +1,10 @@
+torch==2.8.0
+transformers==4.55.4
+datasets==3.0.2
+scikit-learn==1.7.1
+pandas==2.2.2
+spacy==3.8.7
+tqdm==4.67.1
+nltk==3.9.1
+requests==2.32.4
+beautifulsoup4==4.13.4

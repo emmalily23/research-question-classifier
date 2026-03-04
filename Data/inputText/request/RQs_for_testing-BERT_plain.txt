@@ -1,0 +1,27 @@
+Do IC1 and IC2 verbs generate different expectations in language models for next mention in otherwise identical contexts?
+Can the model perform similarly on recognizing basic visual information in the images from different regions?
+Do Delta givers present higher levels of linguistic accommodation?
+Causal inference methods study the change in a response variable following an intervention; for example, how do health outcomes change after a patient stops consuming nicotine products?
+How does our approach compare with BM25 or Bimodal for first-stage retrieval?
+Do OPs present higher levels of linguistic accommodation?
+Could surface-form based metric like ESM reliably track improvements in semantic accuracy?
+How calibrated are deterministic and stochastic BERT-based rankers?
+Can C identify both extrinsic and intrinsic hallucinations?
+How does 2SAPS framework perform on MTLS task compared with other MTLS baselines?
+What impact does BERT have on standard event composition models?
+Can some of the spoken word processing effects normally attributed to phonology be instead explained in terms of phonetic perception?
+Can a model trained on the original VCR dataset generalize well to solve reasoning questions require commonsense specific to other regions?
+Would QG task benefit from LXMERT model?
+Why the techniques like knowledge distillation and source-target alignment can help NAR generation?
+What picture of models' syntactic generalization emerges when evaluation is brought to scale, across dozens of controlled syntactic tests?
+What impact does re-contextualization have on BERT embeddings for event prediction?
+How to further improve the transfer learning capabilities of these generative models?
+How can we integrate knowledge about outcomes that doctors gain from medical literature and previous patients?
+Are PAIR generations similar to humanwritten text in discourse structure?
+Can we simultaneously leverage small strongly and large weakly labeled data to improve the model performance?
+Does BLEU correlate with human judgement on large scale?
+To what extent do these language models capture the linguistic knowledge required to perform discourse modeling?
+Can MCP's improvement generalize to unseen, low-resource languages?
+Do different further pre-training tasks have different effects on different downstream tasks?
+Does the extent of neuron sharing across structures correlate with human intuitions of syntactic similarity?
+Does our framework address the transferability challenges?

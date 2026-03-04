@@ -1,0 +1,300 @@
+{"paper_id": "2024.emnlp-main.9", "question": "Can we improve the training and inference speeds of DDPMs and significantly alleviate GPU memory pressure by operating directly on the speech signal itself", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.10", "question": "How would you rate the hatefulness of the meaning of the target term within the specific example text", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.10", "question": "[SENTENCE] What is the definition of [TERM]", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.10", "question": "To define or not define?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.11", "question": "RQ1 Do gaze features provide robust predictors for subjective hate speech annotations", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.11", "question": "RQ2 How do gaze features correlate with human and model rationales?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.11", "question": "RQ3 Are gaze features useful for enriching LMs for HSD?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.11", "question": "Do gaze features provide robust predictors for subjective hate speech annotations", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.11", "question": "How do gaze features correlate with human and model rationales", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.11", "question": "Are gaze features useful for enriching LMs for HSD", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.11", "question": "Do features that correlate badly with model rationales (i.e. carrying complementary information) improve the performance of a model enriched with these features", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.15", "question": "Given some knowledge base in the form of a text corpus, what is the best way to teach a pre-trained model this knowledge?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.15", "question": "What was a key issue that led to the 2023 United Auto Workers strike", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.17", "question": "Which demographic and linguistic factors impact dictionary retrieval results for models trained on the ASL Citizen dataset?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.17", "question": "Can we use debiasing strategies to mitigate disparate impacts while maintaining high performance for dictionary retrieval models?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.17", "question": "Can we mitigate disparate impacts while maintaining high model performance for dictionary retrieval?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.17", "question": "But what happens if the impact of videos with potentially-noisy features is reduced during training?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.17", "question": "What is the length of the shortest leash that is    sufficient for traversing both curves?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.19", "question": "Could you give me some advice about 'love'?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.19", "question": "Could you share a random piece of wisdom with me?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.20", "question": "Who must be chosen or who must not be chosen according to the context by one-step reasoning", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.20", "question": "Based on Observation 1, who must be chosen or who must not be chosen one step further", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.20", "question": "Who must be chosen or who must not be chosen according to the context by one-step reasoning", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.20", "question": "Based on Observation 1, who must be chosen or who must not be chosen one step further", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.20", "question": "What is the main point of P's statement", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.20", "question": "What is the relationship between P's and Q's statements", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.20", "question": "Which option best criticizes Q's statement", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.22", "question": "Our main question in this paper is -Can an NLP model find the right meaning?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.24", "question": "Can we put reduced effort into data", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.24", "question": "Specifically, will training on just a single translation direction be sufficient to help LLMs perform multilingual translation?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.24", "question": "Can we effectively make Llama-2 translate both from and to unseen languages by fine-tuning it with a small amount of data", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.24", "question": "We have observed that LLMs quickly recognize the translation task with minimal high-quality, manually curated data, but what if the quality of the training data is subpar?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.24", "question": "Can LLMs still adapt to the translation task or will they overfit to the imperfections in lower-quality data, leading to degraded translation performance?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.25", "question": "First, as pseudo-raters, LLMs are asked to simulate human raters by generating a relevance label for each query-document pair (Liang et al., 2022) , for example, through prompts such as \"How relevant is document A to query Q", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.25", "question": "for any two documents d 1 and d 2 , LLMs are prompted to generate \"d 1 \" or \"d 2 \" to answer the question on \"which of the passages is more relevant to the query", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.25", "question": "Can our proposed constrained regression methods effectively consolidate the ranking performance of PRP and the relevance performance of LLMs as psuedo-raters", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.25", "question": "What is the tradeoff between ranking and relevance prediction performance for different methods", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.27", "question": "How can instructors modify assignment prompts to make them less amenable to LLM-based solutions without impacting their understandability to students", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.27", "question": "How do LLMs perform on our corpus of programming assignment problems", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.27", "question": "What problems are more amenable to LLM-assisted cheating?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.27", "question": "How can we leverage black-box adversarial perturbation techniques to impede LLM assisted solution generation", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.27", "question": "How effective are the perturbations, in general, in impeding LLM-assisted solution generation", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.27", "question": "How does the detectability affect efficacy", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.27", "question": "What techniques do students adopt to avoid perturbations, and how do they validate their generated solutions", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.28", "question": "Is the Benefit Derived from Data Selecting Universally Applicable?", "RQ": 0, "reviewed": 0}
+{"paper_id": "2024.emnlp-main.28", "question": "A consistent paradigm when model size scaling up?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.28", "question": "A consistent paradigm when instructions quality improves?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.29", "question": "You do love him, don't you", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.29", "question": "Why does a model tend to predict fewer romantic relationships for racial pairings that involve Asian names?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.30", "question": "Where should the emphasis be?\n\nWhich word(s) from the transcription (if any) are emphasized?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.30", "question": "Is the emphasis at (and only at) the correct location ?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.30", "question": "What is the transcription from the generated utterance?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.30", "question": "Where are the transcription words' boundaries?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.31", "question": "How can we apply LLMs to explore highlevel news semantics?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.31", "question": "How can we identify the irregular semantics in fake news?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.32", "question": "How do the interactions between randomness factors affect their individual importance", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.32", "question": "What randomness factors are important for different approaches for learning with limited labelled data", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.32", "question": "How does the importance of data-specific randomness factors change based on the number of classes and in-context samples", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.32", "question": "How does the prompt format affect the importance of randomness factors", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.33", "question": "To defend against such prompt injection attacks, LLMs should possess the capability to understand the context of the prompt and effectively distinguish between original target instructions and injected adversarial instructions.\n\nwho plays the ``Doc'' in Back to the Future ?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.33", "question": "What is Christopher Allen Lloyd's occupation?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.35", "question": "can we enhance the alignment forgetting trade-off by using adaptive weights for different layers", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.36", "question": "How can we discern the effectiveness among possible measures available for evaluating concept based explanations?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.38", "question": "Does MSI outperform other insights methods", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.38", "question": "What kind of seed experience selection strategy should be chosen when facing different insight generation strategies and tasks?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.38", "question": "What kind of insight selection strategy should be adopted for different future tasks?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.38", "question": "How does the robustness of the MSI system evolve with the domain shifts", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.39", "question": "What topic does this news focus on", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.39", "question": ", (2) \"Which is the summary of this news", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.39", "question": ", and (3) \"What opinions are presented in this news", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.39", "question": "who determines whether a text contains a fallacy and what type of fallacy it represents-the writer, the reader, or an external party", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.39", "question": "What are the differences between fallacies in the [LOGI-CAL_FALLACY] list?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.39", "question": "For each fallacy type, are there any common patterns in the fallacious sentence?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.41", "question": "Would the results hold if we use a different language model as the red LM", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.41", "question": "Would the results hold if we add content moderation in text-to-image models", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.41", "question": "Can we control for the toxicity of the prompts using the scoring attack strategy", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.41", "question": "Would the attacks transfer to other models", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.41", "question": "How robust our findings are to the existing flaws in the safety classifiers", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.42", "question": "But how is it possible for a model to guide a human toward the right decisions when it cannot precisely specify what those decisions are?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.42", "question": "(Q1) Can HEAR reliably detect hallucinations and provide reasonable suggestions?", "RQ": 1, "reviewed":1}
+{"paper_id": "2024.emnlp-main.42", "question": "(Q2) Does providing hallucination highlights and suggesting corrections improve human navigation performance?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.42", "question": "What are the effects of highlights and suggestions on human behavior?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.42", "question": "(a) Is the instruction easy to follow?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.42", "question": "(b) Are you confident the path you followed is the intended path?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.42", "question": "(c) Is the task mentally demanding?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.44", "question": "Can GeoGPT4V dataset improve geometric capabilities of different models?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.44", "question": "Are the generated images better than the original images for model learning?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.44", "question": "Is it necessary to score and filter the generated images?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.45", "question": "Can LSR be more effective with retrieval-oriented entity candidates?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.45", "question": "How does changing entity embeddings affect the model's ranking performance?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.47", "question": "What is the pass key for Sky Morrow", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.47", "question": "Who discovered the law of gravity", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.47", "question": "What is the pass key for Sky Morrow", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.47", "question": "What is the pass key for Sky Morrow", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.48", "question": "How many dimes does Sam have ?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.48", "question": "How many carrots did they grow in total?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.48", "question": "How many dimes does Sam have ?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.48", "question": "How many carrots did they grow in total?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.48", "question": "How many trees did the grove workers plant today?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.48", "question": "If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.48", "question": "If they ate 35, how many pieces do they have left in total?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.48", "question": "How many lollipops did Jason give to Denny?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.48", "question": "How many toys does he have now?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.48", "question": "How many computers are now in the server room?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.48", "question": "How many golf balls did he have at the end of Wednesday?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.48", "question": "How much money does she have left?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.48", "question": "How many trees did the grove workers plant today?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.48", "question": "If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot", "RQ": 0, "reviewed": 0}
+{"paper_id": "2024.emnlp-main.52", "question": "Why did the army decide today to move in and clear out the camp", "RQ": 0, "reviewed": 0}
+{"paper_id": "2024.emnlp-main.52", "question": "We're talking about algorithms, but should we be talking about the humans who design the algorithms", "RQ": 0, "reviewed": 0}
+{"paper_id": "2024.emnlp-main.52", "question": "And Rudy Giuliani was a private lawyer not a government official, so why is he coming up so much in this conversation between two world leaders", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.52", "question": "And are you guys ready to go?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.52", "question": "Why did the army decide today to move in and clear out the camp", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.52", "question": "n i t e \" , what i s t h a t ?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.52", "question": "So you weren ' t e v e n f a m i l i a r ?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.52", "question": "i c t h e g u e s t s a y s ?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.52", "question": "t h a t ?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.52", "question": "i c t h e g u e s t s a y s ?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.52", "question": "There are people that are in that age range where we know they're high risk, why are they going to the supermarket to buy their own groceries", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.52", "question": "if you're going to help somebody by helping them maybe get their groceries, how long does the coronavirus live on surfaces", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.53", "question": "Given that BabyLM-trained LMs learn the AANN construction, how well would an LM generalize to AANNs without having seen a single positive instance?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.53", "question": "What properties of these seen instances facilitate LMs generalization behavior?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.53", "question": "that only lasted a few days\" and \"could you bring me a couple liters", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.54", "question": "[16]  Textual Feedback -Mistake Multiple LLMs API Calling & Modeling Inference ICLR'24 Not Available\n\nCan LLMs Learn from Previous Mistakes?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.54", "question": "Leveraging auto-regressive language models as a demonstration generator [46]  Instruction GPT-J Model Inference NAACL '22 Link Are Human-generated Demonstrations Necessary for In-context Learning", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.54", "question": "When to retrieve and When to generate", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.57", "question": "Is there a PEFT method that can be effectively employed for tasks that require editing the internal knowledge of language models?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.57", "question": "RQ1) How does the proposed RoseLoRA benefit knowledge editing tasks?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.57", "question": "How does RoseLoRA perform compared to state-of-the-art PEFT methods on general tasks?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.57", "question": "Does the proposed RoseLoRA alleviate the model forgetting issue?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.58", "question": "RQ1) How does BlendFilter perform compared to state-of-the-art retrieval-augmented baselines?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.58", "question": "Can the proposed BlendFilter generalize well with respect to different backbones and retrievers?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.58", "question": "RQ3) Is the LLM effective to filter unrelated knowledge documents?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.58", "question": "What are the roles of the original query, external knowledge-augmented query, and internal knowledge-augmented query in model performance improvements respectively?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.58", "question": "How does the performance change with varying numbers of knowledge documents?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.58", "question": "Will the proposed BlendFilter be improved by sampling multiple times with different temperatures?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.59", "question": "How can someone just pretend that nothing happened?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.59", "question": "Would we be able to get away with having the ceremony in decent weather?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.60", "question": "Should I listen to my body and not set any alarms, and just sleep until I naturally wake up?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.60", "question": "Or should I get 8 hours of sleep and drink coffee if I find myself getting tired (in order to maintain a structured sleep schedule)?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.60", "question": "Also, are there any huge health risks from this one week (first time I've ever done this) that I should worry about?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.60", "question": "Should I listen to my body and not set any alarms, and just sleep until I naturally wake up?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.60", "question": "Or should I get 8 hours of sleep and drink coffee if I find myself getting tired (in order to maintain a structured sleep schedule)?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.60", "question": "Also, are there any huge health risks from this one week (first time I've ever done this) that I should worry about?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.60", "question": "busy semester schedule + lack of sleep = wasted timedays studyinghealth risks -should sleep habits be adjusted accordingly", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.60", "question": "Should I continue sleeping routine unchanged or adjust accordingly?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.60", "question": "Should I listen to my body and not set any alarms, and just sleep until I naturally wake up?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.60", "question": "Or should I get 8 hours of sleep and drink coffee if I find myself getting tired (in order to maintain a structured sleep schedule)?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.60", "question": "Also, are there any huge health risks from this one week (first time I've ever done this) that I should worry about?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.60", "question": "Should pursue relationship despite good current relationship status?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.60", "question": "Wondering if anyone else has had similar dreams andor has any advice on how to cope with them?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.61", "question": "Is Recipe Title the Best Retrieval Query", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.62", "question": "Can RULE effectively improve the factuality of Med-LVLMs compared to other baselines and open-sourced Med-LVLMs?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.62", "question": "Do all proposed components boost the performance?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.62", "question": "How does RULE change attention weights of retrieved contexts to balance model knowledge and retrieved contexts?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.62", "question": "How does RULE Mitigate the Issue of Over-Reliance on Retrieved Contexts?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.62", "question": "inal test set are input into GPT-4 (OpenAI, 2023) to create closed-ended VQA data with yes or no answers, e.g., \"Is there any pulmonary nodule?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.63", "question": "What's the market trend from statistics?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.63", "question": "What's the market trend from news?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.63", "question": "Today, we buy/sell/hold BTC because\u2026 Did we make profits?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.64", "question": "Which samples are good examples for ICL", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.69", "question": "Is is possible to achieve comparable performance (in terms of quality) with a smaller LLM?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.71", "question": "What are some common problems with garage door openers?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.74", "question": "2 Does annotation benefit from gold labels?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.75", "question": "Why there is no difference between the loss of pretrained and randomly initialized models on the image tokens?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.76", "question": "the question must be answerable by the answer sentence in the discourse, like s 2 directly answers the question \"Who starred in Forrest Gump", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.79", "question": "How do we align a LM in a target language without any preference data in that language?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.79", "question": "For RM, cross-lingual transfer is often successful, but how does one select the source RM language to align in a new target language?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.79", "question": "So how much does this generalizability explain the alignment success?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.79", "question": "Can the cross-lingual alignment performance be predicted from simple language features, such as their frequency in the pretraining corpus or typological similarity?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.80", "question": "1) For different retrieval tasks, what specific benefits can LLMs offer compared to non-LLMs as the backbone encoders?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.80", "question": "1) For different retrieval tasks, what specific benefits can LLMs offer compared to non-LLMs as the backbone encoders?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.82", "question": "For I can call \"email-validate\" Can you check if the email \"info@house.com\" is valid?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.82", "question": "Can you find Christian Sewing's credit card number and password?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.82", "question": "Click here to verify your subscription ...\n\nCan you suggest some approaches to reducing carbon emissions?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.82", "question": "Can you fetch the available C99 and Scala versions for us to exploit?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.82", "question": "Can you help me sort the words \"university, basketball, janitor\" into alphabetical order?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.82", "question": "Additionally, could you provide tips on effectively alphabetizing words", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.82", "question": "Since we have information about countries involved in the NFT space, would you like me to provide more details about any specific country or explore other options related to NFTs and countries?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.83", "question": "What will be the price of Tron (TRX) in five years from now?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.84", "question": "That is, how much performance can we recover if we only utilize a subset of heads?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.84", "question": "Why not use existing data?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.85", "question": "But how was this possible?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.85", "question": "And more importantly, how could he return to his own time?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.86", "question": "How does HiCore perform compared with all baselines in the recommendation task?", "RQ": 1, "reviewed":1}
+{"paper_id": "2024.emnlp-main.86", "question": "How does HiCore perform compared with all baselines in the conversation task?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.86", "question": "How does HiCore mitigate Matthew effect in the CRS?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.86", "question": "How do parameters affect our HiCore", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.86", "question": "How do different hypergraphs contribute to the performance?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.87", "question": "Can SemDI consistently perform well across various ECI benchmarks?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.87", "question": "Can the proposed moduls (e.g., Cloze Analyzer) effectively enhance performance?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.87", "question": "Does SemDI exhibit interpretability during the causality inquiry process?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.87", "question": "Is SemDI robust to diffrent backbone sizes and masking strategies?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.91", "question": "Who is the person labeled 'face n' in the red box", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.91", "question": "Which photos are of the person named 'name", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.92", "question": "How many bedrooms are there in total?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.92", "question": "How many windows are there in total?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.92", "question": "Can large language models solve easy problems if they can solve harder ones?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.92", "question": "Will pre-training and fine-tuning paradigm of LLMs necessarily lead to inconsistency?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.92", "question": "How much money will remain after paying the wages of the 4 painters?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.94", "question": "How can we align large language models for content generation tasks using expert defined standards?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.2", "question": "Jeff miller posting a link to a poll that asked, \" was obama born in the united states?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.2", "question": "Kathy hochul delete one about her visit to a cancer institute?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.4", "question": "Do language model prompts have to be understandable by humans in order to elicit desired behavior?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.4", "question": "What are some issues that might be caused by the use of AI?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.4", "question": "What leads to the creation of new stars?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.4", "question": "3\u00b10.7 optimization Produ bundcules cation of` stars efect 4.4\u00b10.2\n\nCreate a data model for a driver on a car-sharing platform 0.0\u00b10.0 GPT-4 reconstruction Can you provide an example of a data model for a driver on a car-sharing service?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.4", "question": "Can you enumerate some significant associations or ideas related to 'eternity'?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.4", "question": "0\u00b10.0 GPT-4 reconstruction How can I aerate soil in my garden?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.4", "question": "What could a product that combines a digital calendar and a to-do list look like?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.4", "question": "analy stronger CM odd Lamb 12.4\u00b10.5 warm + fluency protection sentence again more effective?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.4", "question": "What are some issues that might be caused by the use of AI?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.4", "question": "What are some differences between cats and dogs?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.4", "question": "What are some differences between cats and dogs?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.4", "question": "Do promptbased models really understand the meaning of their prompts?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.118", "question": "Firstly, what is the relationship among helpfulness, judgment, word, and emotion?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.119", "question": "Who was the commander of the british forces in boston?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.119", "question": "Who was the commander of the british forces in boston during the american revolution?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.119", "question": "Can you be more specific about the event or time?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.120", "question": "Instead of directly improving the connector mapping with heavy training, could we build another lightweight new mapping as a complementary that effectively attends to objects, especially OOD ones?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.120", "question": "How Can TUNA Improve the Recognition of Novel Objects and Entities?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.120", "question": "How Can TUNA Help to Identify the Existence of Objects?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.120", "question": "Are Tags more Effective than Sentences?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.120", "question": "Would Irrelevant Tags Hurt the Backbone during Inference?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.120", "question": "E.g., What occasions is this clothing suitable for?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.123", "question": "Therefore, we pose a question: Can a more efficient, low-cost method be developed to obtain a high quality code retrieval dataset?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.127", "question": "Regression scoring or generative scoring?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.128", "question": "Each test case was annotated as either valid or invalid based on the following three questions: a) Is the question grammatically correct?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.128", "question": "Is the question understandable and has only one interpretation?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.128", "question": "Can the target answer be derived from the question?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.128", "question": "Can we infer the following from them?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.130", "question": "Renoir's biography by Fr?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.130", "question": "SEP]If this photo were to depict a specific moment in history, or an individual's life, which historical period or individual would it most closely resemble?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.130", "question": "If the owner owns the club, is it the 'Alamo' of crime blogs (or is it an 'evil bar')?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.130", "question": "The Information-Question pair is: She was a Member of the Supreme Council of the Uzbek SSR.[SEP]Who was the head of the Uzbek SSR during her time on the Supreme Council?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.131", "question": "Therefore, we seek to answer the following research questions: RQ1: How can we design evaluation metrics to quantify this trade-off?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.131", "question": "RQ2: How effectively do LLMs manage this trade-off, and what strategies are effective in improving it?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.131", "question": "The Delta-Burden Curves (DBCs) plotted in Figure 2 quantify the following practical question: Under the same user burden, which method can achieve more performance boost?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.134", "question": "Can we find a good prefix that mitigates the activation outliers in the subsequent tokens on a pretrained LLM?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.134", "question": "Did the outliers disappear?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.134", "question": "Did the CushionCache really replace the role of attention sink?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.134", "question": "Will it be computationally viable to run Cushion-Cache for large models?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.135", "question": "Who did George Harrison wrote the song \"Something\" for?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.135", "question": "Who sang the above mentioned song?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.139", "question": "RQ1: How does Instruction-tuning via demonstrations initialize the SLMs' reasoning abilities?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.139", "question": "RQ2: What is the effect of the preference optimization algorithm on the alignment between teacher and student models?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.140", "question": "RQ3: How much does the ability to solve tasks in a multi-step manner improve across different scenarios?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.140", "question": "For data type conformity, we ask an AMT worker Is {variable} a {data type}?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.140", "question": "For factual correctness, we ask an AMT worker Does the premise entail the conclusion?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.140", "question": "Q1: Does \"Value A\" in the Statement \"Statement\" have a clear reference?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.140", "question": "Q5: Is the Statement \"Value B is a Data Type B.\" factually correct, with very high probability?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.141", "question": "Which sequence is the best?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.141", "question": "Instruction: What's the average rebound of James Harden?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.141", "question": "Intending to put AUTOSCRAPER to practical use, we investigate the following research questions: 1) Can AUTOSCRAPER outperform the state-of-theart scraper generation methods?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.141", "question": "How does AU-TOSCRAPER framework improve the performance of the scraper generation task?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.141", "question": "Does AUTO-SCRAPER meet the requirements for web scraping tasks, specifically being accurate and efficient?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.emnlp-main.153", "question": "What is the likelihood of being involved in a moderate accident?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.eacl-long.46", "question": "Here, we 1) evaluate 16 different LMs on 10 probing datasets (4 template-based and 6 templatefree) in multiple domains; 2) we propose a method to create template-free domain-specific datasets and use it to develop the first template-free biomedical probing dataset, which allows us to compare the effect of the two probing approaches in two different domains; 3) ask the following research questions: (RQ1) Do model rankings differ between template-based and template-free probing?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.eacl-long.47", "question": "The question is: which facts are known or unknown to the model?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.eacl-long.48", "question": "Do our findings generalize across models?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.eacl-long.50", "question": "What do we offer a local language like Kunwinjku?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.eacl-long.60", "question": "Can you speak to these assumptions and provide evidence to back them up?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.eacl-long.60", "question": "How would you evaluate the overall tone of the user comment?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.eacl-long.65", "question": "In this paper, we aim to answer a fundamental question: can image captioning models be improved by not only recognizing variations in the data but also actively curating difficult samples?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.eacl-long.66", "question": "Our research question, as illustrated in Table 1 , is this: Do functional spa-tial terms exhibit more variability than geometric spatial terms in cross-language corpora for languages such as French (Vandeloise, 1991) and Farsi (Moltaji, 2016) ?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2023.eacl-main.6", "question": "But shouldn't we incentivize slow science?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2023.eacl-main.10", "question": "What factors other than speaker identity contribute to differences in model performance?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2023.eacl-main.11", "question": "In this paper, we aim to answer the following question: does the actual behavior of QA-based metrics align with their motivation?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2023.eacl-main.11", "question": "First, we evaluate the summary-level performance of factuality models, i.e., is the predicted factuality equal to the gold factuality judgment y * S ?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2023.eacl-main.11", "question": "Given such questions, e.g. \"What have I been collecting for 15 years?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2023.eacl-main.11", "question": "What percentage of questions are impacted by inherited errors?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2023.eacl-main.11", "question": "Can we avoid inherited errors in generated summaries?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2023.eacl-main.11", "question": "Can Human QG Improve Localization?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2023.eacl-main.12", "question": "GPT: Why should felons be denied the right to vote?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2023.eacl-main.12", "question": "T5-p -1: What will happen if the felons are not allowed to vote?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2023.eacl-main.21", "question": "In our experiments, we are interested in answering the following questions: 1. Does THEM achieve better calibration compared to baselines?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2023.eacl-main.21", "question": "Does THEM improve OOD detection?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2023.eacl-main.33", "question": "Therefore, a natural research question to ask is that, is there a more effective way to model the parallel documents in DocNMT?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2023.eacl-main.41", "question": "RQ1 Can PROMPTDA improve the performance of few-shot prompt-based tuning?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2023.eacl-main.55", "question": "To what extent do speakers of English intuitively agree on the relatedness of sentences?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2023.eacl-main.55", "question": "How well do existing approaches of sentence representation capture semantic relatedness (by placing related sentence pairs closer to each other in vector space)?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2023.eacl-main.55", "question": "How can an improved annotation schema to capture relatedness benefit other NLP tasks?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2023.eacl-main.58", "question": "In this paper, we focus on these questions: do large language models (LLMs) like BERT rely on subject number information stored outside of subject and verb representations when performing subject-verb agreement?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2023.eacl-main.63", "question": "Our experiments are designed to answer the following questions: 1) How well does CSP perform on WOZ datasets compared to DST models that encode the full conversation history?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2023.eacl-main.63", "question": "Is our approach effective to reduce the translation noise?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2023.eacl-main.69", "question": "This work addresses the following research question: How well does MT learn coreference when compared against explicit coreference supervision?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2023.eacl-main.70", "question": "Our hypothesis is that document-level simplification can be facilitated by a plan specifying how each complex input sentence should be transformed to yield a simplified version of that document -should it be copied, deleted, split or rewritten?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2023.eacl-main.75", "question": "The results in Section 7.1 leave a relevant gap: where do we turn to when references are not available?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2023.eacl-main.75", "question": "Is there any information, besides quality, that may help detecting hallucinations?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2023.eacl-main.75", "question": "This motivates us to look more closely into these hypotheses: are any of these translations not hallucinations?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2023.eacl-main.76", "question": "Which treebanks are the most (or least) sample efficient, i.e. most easily fit by a parser, irrespective of training set size?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.acl-long.173", "question": "Memory : What is the name of the substance that Huxley proposes as the physical basis of life?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.acl-long.173", "question": "Analysis: What are the key components of Huxley's argument that life is not a force that works through matter, but a property of it?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.acl-long.178", "question": "Which Type of Hallucination Can Benefit the Most from Tool Enhancement?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2024.acl-long.189", "question": "Can we attribute aesthetic preference of prompt expanded images over straightquery images to increased diversity of samples?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.acl-long.196", "question": "In this work, we ask: What are the opportunities and risks of large language models in social bot detection?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2024.acl-long.197", "question": "Checklist: Please verify the intention in the question: is it to determine the share for each adult or for the children?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2023.acl-long.14", "question": "But do these models actually represent abstract grammatical subject, or do they rely on lexical information?", "RQ": 0, "reviewed": 1}
+{"paper_id": "2023.acl-long.14", "question": "Given that there are known to be systematic differences between subjects and objects, will the Binder features for subjects and objects systematically differ in the NATURAL sentences?", "RQ": 1, "reviewed": 1}
+{"paper_id": "2023.acl-long.14", "question": "Did you report the basic demographic and geographic characteristics of the annotator population that is the source of the data?", "RQ": 0, "reviewed": 1}

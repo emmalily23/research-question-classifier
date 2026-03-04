@@ -1,0 +1,105 @@
+Is poor performance of transitivity inference due to overfitting on verbs?
+Are the benefits of monolingual data orthogonal to other techniques like iterative refinement?
+How crucial are the cross-attention layers pretrained values with regard to successful adaptation to the new task?
+How can we quantify bias in pre-trained language models?
+What are the advantages of soft attention over hard cutoff in learning adequate neural representations under the large search space?
+Do humans show similar trend when dealing with questions require regional commonsense that they are not familiar with?
+Given that multi-granularity combination can lead to improved generalization performance, is it better to have more context information of different granularity in training phase?
+What degree of overlap between a pretraining corpus and a knowledge probe is permissible, and how can this be accurately uncovered and quantified?
+This raises the question of how to induce the model to focus more on syntax while maintaining its original capability of representing semantics?
+Do the models with more pretraining perform better when applied in downstream tasks?
+How critical is diversity in the paraphrase generation step?
+How do we best theorize attributes like gender, ethnicity, religion, emotion, function and power in agents within narrative texts, and build models for their estimation that respect the biases present in the data?
+Is federated learning effective in medical relation extraction?
+Can better NLU models boost NLG performance?
+Does SELFEXPLAIN's explanation help predict model behavior?
+State-of-the-art models get good performance on QA datasets, but does good performance mean good reading comprehension?
+Are TPC-GCN and DTPC-GCN able to improve the performance of controversy detection?
+In the area of task-oriented dialogue, can further pre-training using the masked language model improve the performance of all downstream tasks?
+Would our approach improve real-life Web search queries?
+Did multitask learning improve accuracy only by introducing more data?
+How can we leverage a morphosyntactic description to accelerate the creation of texts and a lexicon for a morphologically complex language?
+How to combine multiple granularities for dialogue state tracking?
+How does the size of the prefix affect the perplexity of long-range Transformer LMs?
+How does RL-MMR perform compared to state-of-the-art methods?
+Does the commonly used intrinsic metric for embeddings correlate with extrinsic metrics of application bias?
+On which NLP tasks do HPO methods work better?
+Can automated HPO methods outperform traditional tuning method such as grid search?
+Do our Orthogonal Structural Probes achieve comparable or better performance to the Structural Probes of Hewitt and Manning ?
+Can a semantic parser created with AutoQA approach the performance of human written annotations and paraphrases?
+Which components mediate syntactic agreement?
+Is the proposed GME model effective for grounded minimal editing?
+Are models trained on fluent data robust to disfluencies?
+How does divergence ranking improve predictions?
+Do models with more pretraining or better perplexity perform better in all circuits?
+In downstream cross-lingual transfer, do the context windows that perform well on the source language also perform well on the target languages?
+Does the optimal learning objective change in the KD process?
+On relative representations Given our previous assumptions about offsets aiding compositionality, why, then, do our relative representations -that explicitly calculate offsets -perform poorly in multilingual settings?
+Are infrequent and minority group names split into subwords by neural language models more than frequent and majority group names?
+Can we use crowdsourcing to evaluate models no less reliably as experts or authors, as done in previous work?
+Are infrequent and minority group names less contextualized than frequent and majority group names?
+Do our results generalize to more controlled and higher-level narrative completion tasks such as SCT?
+Can model perform similarly on understanding basic visual information across regions?
+How well can AI agents generalise with concepts acquired from visual guessing games?
+How do training dataset size and model architecture jointly affect syntactic generalization?
+How do information economies like social media modulate the production of narrative structures circulating in the news in real time?
+Do binary masked models generalize?
+Can this effect be exploited to further improve models?
+What is the performance of English AMR parsing and AMT-to-text generation?
+Can the pre-trained models understand persona consistency just through finetuning on the personalized dialogues?
+Should humans rate diversity of a set or similarity between pairs in the set, from which diversity can be inferred?
+Do models need to learn reading comprehension for QA datasets?, and Can QA models handle variations in questions?
+What is the performance of teacher models when we use teacher models to guide student ones in teacher-student-based MTL finetuning?
+Do ablations affect the quality of text generated by models?
+How has the agency of children evolved, either in imaginative depictions or within clinical and/or judicial settings?
+Does SEPARATOR manage to generate diverse paraphrases?
+Do these models robustly extract the nuances of information conveyed in text, or is their strong performance driven by more superficial mechanisms?
+Does Apple Tasting successfully handle the problem of learning from one-sided feedback?
+How much pretraining data is required for LMs to learn different grammatical features and linguistic phenomena?
+Can PAIR correctly generate discourse markers?
+Can the successes of span-based models be extended to event CR?
+What can narrative understanding do to further combat problematic conspiracy theories or misinformation campaigns?
+How does age and gender impact predictions?
+Can we fine-tune end-to-end a pre-trained text-to-text transformer to suggest civil rephrasings of rude comments using a dataset solely annotated in toxicity?
+Does SEPARATOR effectively factorize meaning and form?
+What combination of controllable system parameters related to the base vocabulary generation optimizes performance?
+How does OOD accuracy change as we generate more sentences and explore more of the manifold neighborhood?
+With this situation, a straightforward research question arises, namely, Can we further improve the performance of neural response generation models by ablating unacceptable utterance pairs from training data?
+Are the uncertainty estimates from stochastic BERT-based rankers useful for risk-aware ranking?
+Is Mirror-BERT then improving isotropy of the embedding space?
+Are the uncertainty estimates obtained from stochastic BERTbased rankers useful for identifying unanswerable queries?
+Do models pretrained on more data generalize better?
+How does the level of contextual information in the input photo affect the quality of the inferred description?
+Can we identify particular dimensions of the embedding space that encode particular linguistic structures?
+As the models are pretrained on more data, and their perplexity improves, do they encode more syntactic information and offer a better syntactic generalization?
+Can the NAR model perfectly recover the AR model's performance with much larger monolingual datasets?
+Does combining different further pre-training tasks benefits more downstream tasks?
+Can humans evaluate different aspects of diversity well?
+If these supervision techniques do not incorporate KBs at all, how are they relevant when considering LMs as relational knowledge representations?
+How does the quality of the contextual description inferred from the input photo affect performance?
+Do differences in surprisal accurately predict the slowdowns observed in human reaction time data?
+How does the level of contextual information in the input photo affect performance?
+Can the pre-trained weights be used with architectures other than GENBERT?
+Can automated HPO methods outperform grid search?
+Can we exploit information gathered during RL training to improve the demonstrator and bridge the domain gap between dialog data and the RL environment?
+How strongly do models prefer correct forms?
+Is NPH effective in reducing hallucinations?
+How have family relations changed over time, especially with respect to questions of size, hierarchy, and conflict?
+Are minority social group names less frequent in the training corpora of neural language models?
+Does learning a difference classifier improve query efficiency over active learning alone?
+How does attention regularization influence alignment with human rationales?
+Can DTCA achieve better performance compared with the state-of-the-art models?
+Do models with lower perplexity perform better in the syntactic tests?
+How do long-range Transformer LMs make use of the long-range context?
+Can we significantly reduce human annotation effort to achieve reasonable performance using neural NLG models?
+Do different ML-LMs have similar language preferences?
+Can a universal retriever lead to better downstream performance in knowledge-intensive tasks?
+Are debiasing approaches based on independent groups more prone to fairness gerrymandering than methods using intersectional groups?
+Can DTPC-GCN learn disentangled features and dynamically fuse them for controversy detection?
+How well do human annotations of the stance of individual users map to other means of inferring attitudes, and in particular, to survey responses?
+How well do models capture dependencies between different roles?
+Does writing mode induce similar changes in the writing style of different individuals?
+What performances do humans achieve in the single-modal setting and multi-modal setting?
+Can we learn task-specialised sentence encoders that enable sentence similarity-based interpretable classification?
+If we frame conversational tasks such as intent detection as semantic similarity tasks instead of their standard classification-based formulation, is it also possible to frame supervised taskspecific learning as fine-tuning of conversational sentence encoders?
+Can models remain robust as features are added to datasets?

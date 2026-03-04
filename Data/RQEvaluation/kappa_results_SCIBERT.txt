@@ -1,0 +1,4 @@
+Cohen’s Kappa Inter-Rater Agreement:
+Feasibility:   0.572
+Measurability: 0.843
+Relevant:      0.779
