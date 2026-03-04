@@ -35,6 +35,9 @@ python Scripts/Extract/extractQuestions.py
 
 python Scripts/TrainAndPredict/trainRQClassifier.py
 
+> **Note:** Pre-trained model checkpoints are not included in this repository. 
+> Run the above script to generate them before proceeding to the next step.
+
 # Score Candidate Questions
 
 python Scripts/TrainAndPredict/scoreRQCandidates.py
